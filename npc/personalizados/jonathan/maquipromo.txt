@@ -1,0 +1,66 @@
+prontera,134,203,5	script	Máquina de Promoções	563,{
+	
+	set .@npc$,"["+strcharinfo(0)+"]";
+	
+	set $ticv,30000;	// ID Ticket
+	
+	// ID dos DROPS // % de DROPS  // 0 = sem uso, Valor = <
+	set $id1,20013;	set $droppo1,10;	set $droppo11,0;
+	set $id2,20014;	set $droppo2,11;	set $droppo22,20;
+	set $id3,20015;	set $droppo3,21;	set $droppo33,30;
+	set $id4,20016;	set $droppo4,31;	set $droppo44,40;
+	set $id5,608;	set $droppo5,41;	set $droppo55,4999;
+	set $id6,607;	set $droppo6,5000;	set $droppo66,7999;
+	set $id7,609;	set $droppo7,8000;	set $droppo77,10000;
+	
+	// ID chance DROPS
+	
+	
+	mes "^3CB371*Você vê uma fenda no canto da Máquina de Promoções e logo acima um botão próximo a uma alavanca*^000000";
+	next;
+	mes .@npc$;
+	mes "Acho que é aqui que coloco aquele ^0000FF"+getitemname($ticv)+"^000000...";
+	switch(select("[Inserir ^0000FF"+getitemname($ticv)+"^000000]:[Lista de Prêmios]:[Sair]")){
+		case 1:
+		if(countitem($ticv)<1){next; mes .@npc$; mes "Não tenho ^0000FF"+getitemname($ticv)+"^000000..."; close;}
+		next;
+		mes "^3CB371*Você insere o ^0000FF"+getitemname($ticv)+"^000000 ^3CB371na fenda da Máquina e observa enquanto ela puxa o Ticket automáticamente*^000000";
+		next;
+		mes .@npc$;
+		delitem $ticv,1;
+		set .@rand, rand(10000);
+		if(.@rand < $droppo1){ getitem $id1,1; announce "Máquina de Promoções: BEEEP! WRYYYY! "+strcharinfo(0)+" obteve "+getitemname($id1)+" da Máquina de Promoções!",8;}
+		if(.@rand >= $droppo2 && .@rand < $droppo22){set $sorts, $sorts+1; getitem $id2,1; announce "Máquina de Promoções: BEEEP! WRYYYY! "+strcharinfo(0)+" obteve "+getitemname($id2)+" da Máquina de Promoções!",8;}
+		if(.@rand >= $droppo3 && .@rand < $droppo33){set $sorts, $sorts+1; getitem $id3,1; announce "Máquina de Promoções: BEEEP! WRYYYY! "+strcharinfo(0)+" obteve "+getitemname($id3)+" da Máquina de Promoções!",8;}
+		if(.@rand >= $droppo4 && .@rand < $droppo44){set $sorts, $sorts+1; getitem $id4,1; announce "Máquina de Promoções: BEEEP! WRYYYY! "+strcharinfo(0)+" obteve "+getitemname($id4)+" da Máquina de Promoções!",8;}
+		if(.@rand >= $droppo5 && .@rand < $droppo55){set $sorts, $sorts+1; getitem $id5,1; }//dispbottom "Máquina de Promoções: BEEEP! WRYYYY! "+strcharinfo(0)+" obteve "+getitemname($id5)+" da Máquina de Promoções!";}
+		if(.@rand >= $droppo6 && .@rand < $droppo66){set $sorts, $sorts+1; getitem $id6,1; }//dispbottom "Máquina de Promoções: BEEEP! WRYYYY! "+strcharinfo(0)+" obteve "+getitemname($id6)+" da Máquina de Promoções!";}
+		if(.@rand >= $droppo7  && .@rand < $droppo77){set $sorts, $sorts+1; getitem $id7,1; }//dispbottom "Máquina de Promoções: BEEEP! WRYYYY! "+strcharinfo(0)+" obteve "+getitemname($id7)+" da Máquina de Promoções!";}
+		mes "Legal! Isso vai ser bastante útil.";
+		close;
+		
+		case 2:
+		next;
+		mes "[Máquina de Promoções]";
+		mes ""+getitemname($id1)+", ( ^0000FF0,"+$droppo1/10+"%^000000 )"; // Virgula para não exatos aqui!
+		mes ""+getitemname($id2)+", ( ^0000FF0,"+$droppo2/10+"%^000000 )";
+		mes ""+getitemname($id3)+", ( ^0000FF0,"+$droppo3/10+"%^000000 )";
+		mes ""+getitemname($id4)+", ( ^0000FF0,"+$droppo4/10+"%^000000 )";
+		mes ""+getitemname($id5)+", ( ^0000FF"+$droppo5/1+"%^000000 )";
+		mes ""+getitemname($id6)+", ( ^0000FF"+$droppo6/100+"%^000000 )";
+		mes ""+getitemname($id7)+", ( ^0000FF"+$droppo7/100+"%^000000 )";
+		close;
+		
+		case 3:
+		mes .@npc$;
+		mes "Eu estou saindo.";
+		close;
+	}
+	OnInit:
+	while (1) {
+		delwaitingroom;
+		waitingroom "Ultilizada "+$sorts+"x",0;
+		sleep 1000;
+	}
+	end;
+}

@@ -1,0 +1,149 @@
+//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+//%%           _____    _____   _____   _____   _____    _   _____   _   _            %%
+//%%          |  _  \  /  _  \ |  _  \ | ____| |  _  \  | | /  ___| | | / /           %%
+//%%          | |_| |  | | | | | | | | | |__   | |_| |  | | | |     | |/ /            %%
+//%%          |  _  /  | | | | | | | | |  __|  |  _  /  | | | |     | |\ \            %%
+//%%          | | \ \  | |_| | | |_| | | |___  | | \ \  | | | |___  | | \ \           %%
+//%%          |_|  \_\ \_____/ |_____/ |_____| |_|  \_\ |_| \_____| |_|  \_\          %%
+//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+//%%==================================================================================%%
+//%% | Desenvolvido Por [ADM] Roderick | Cronus | Por Favor, Não Retire Os Créditos | %%
+//%%==================================================================================%%
+-	script	RankVisual	-1,{						    							//%%
+OnInterIfInit:										    							//%%
+//%%==================================================================================%%
+//%%             ---- CONFIGURAÇÕES AQUI EM BAIXO: ------			      			  %%
+//%%----------------------------------------------------------------------------------%%
+//%% **Importante: Coloque aqui nome da sua tabela de ranking PVP		      		  %%
+set $pvpTableDB$,"da_ranking" ;  				  			   						//%%
+//%%----------------------------------------------------------------------------------%%
+//%% **Importante: Coluna que salva o ID do CHAR DO RANKING PVP			      		  %%
+set $charIdDB$,"object_id" ; 							    						//%%
+//%%----------------------------------------------------------------------------------%%
+//%% **Importante: Coluna que salva o nome do Personagem DO RANKING PVP		      	  %%
+set $charNameDB$,"object_name" ; 							    				   	//%%
+//%%----------------------------------------------------------------------------------%%
+//%% **Imporante: Coluna que salva os kills do PVP				      				  %%
+set $killsDB$,"wins" ; 								    							//%%
+//%%----------------------------------------------------------------------------------%%
+//%% ID do Item que vai ser dado Pra quem estivar no 1 LUGAR DO PVP		      		  %%
+set $idItemPremio,20042; 								    						//%%
+//%%----------------------------------------------------------------------------------%%
+//Parte onde o item escolhido é quipado (Escolha o número que refere a posição)       %%
+// 1 - Topo da Cabeça (equips)							      						  %%
+// 9 - Meio (equips)								      							  %%
+//10 - Cabeça baixo (equips)                       				       				  %%
+// 2 - Vestimenta (equips)							      							  %%
+// 3 - Mão esquerda (equips)							      						  %%
+// 4 - Mão Direita (equips)							      							  %%
+// 5 - Manto (equips)								      							  %%
+// 6 - BOTAS (equips)								      							  %%
+// 7 - Acessorio Esquerdo (equips)						      						  %%
+// 8 - Acessorio Direito (equips)							      					  %%
+//13 - Topo da Cabeça (VISUAL)							      						  %%
+//12 - Meio (VISUAL)								      							  %%
+//11 - Cabeça Baixo (VISUAL)														  %%
+//14 - Manto (VISUAL)								      							  %%
+set $slotItemPremio,13;									    						//%%
+// %%---------------------------------------------------------------------------------%%
+// %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+end;
+
+OnPCKillEvent:
+
+	if($idTopRank==getcharid(0))end;
+
+	sleep2 1000;
+	query_sql "SELECT `"+$charNameDB$+"`, `"+$killsDB$+"` FROM `"+$pvpTableDB$+"` ORDER BY "+$killsDB$+" DESC LIMIT 2",.@charName$,.@kills;
+	if(strcharinfo(0)!=.@charName$[0]) end;
+
+	if(getequipisequiped($slotItemPremio)) unequip $slotItemPremio;
+	getitem $idItemPremio,1;
+	specialeffect2 55;sleep2 250;
+	specialeffect2 8;sleep2 800;
+	specialeffect2 25;
+	equip $idItemPremio;
+	dispbottom "Parabéns você é novo Campeão do PvP com "+.@kills[0]+" Kills!!";
+	announce "O Jogador ..: "+strcharinfo(0)+" :.. é novo Líder PVP, agora ele porta a << "+getitemname($idItemPremio)+" >> com * "+.@kills[0]+" * Kills!!",bc_all,0xDC143C;
+
+	if($idTopRank==0){ 
+		set $idTopRank,getcharid(0); 
+		end;
+	}
+	.@playerTopRankIsOn = isloggedin(getcharid(3,.@charName$[1]),$idTopRank);
+	if(.@playerTopRankIsOn){
+		attachrid(getcharid(3,.@charName$[1]));
+		if(getequipid($slotItemPremio)==$idItemPremio) unequip $slotItemPremio;
+		delitem $idItemPremio,1;
+		dispbottom "Você não é mais o Jogador com mais Kills no PvP!!";
+	}
+	else 
+		setarray $mng[getarraysize($mng)],$idTopRank;
+	$idTopRank = getcharid(0,.@charName$[0]);
+	end;
+
+OnPCLoginEvent:
+
+	for(.@r=0; .@r<getarraysize($mng); .@r++){
+		if(getcharid(0)==$mng[.@r]){
+			if(getequipid($slotItemPremio)==$idItemPremio) unequip $slotItemPremio;
+			delitem $idItemPremio,1;
+			dispbottom "Você deixou de ser o Jogador com mais Kills do PvP!!";
+			deletearray $mng[.@r],1;
+			break;
+		}
+	}
+	end;
+}
+prontera,162,182,3	script	Porteiro PvP	4_F_NFDEADKAFRA,{
+	
+	.@npcName$ = "^8A2BE2Porteiro PvP^000000"; //Escreva aqui o nome do NPC
+	setarray .@mapasPvP$[0], //Coloque aqui os mapas PVP que ele enviará
+		"arena_4";
+//	setarray .@mapasGvG$[0], //Coloque aqui os mapas GvG que ele enviará
+//		"guild_vs1";
+	
+	cutin "death_arena", 2;	
+	mes "[ "+.@npcName$+" ]","Olá "+strcharinfo(0)+", pra onde deseja ir?";
+	.@menuPrincipal$ = (getarraysize(.@mapasPvP$)>0?"Arena PvP:":"")+"Ranking:Cancelar";
+	next;
+	mes "[ "+.@npcName$+" ]";
+	if(select(.@menuPrincipal$)==4)close;
+	else if(@menu==1){
+		mes "Selecione a arena PvP:";
+		for(.@r=0; .@r<getarraysize(.@mapasPvP$); .@r++){
+			.@menuPvP$ += "Sala PvP "+(.@r+1)+" ("+getmapusers(.@mapasPvP$[.@r])+"):";
+		}
+		.@menuPvP$ += "Cancelar";
+		if(select(.@menuPvP$)>getarraysize(.@mapasPvP$))close;
+		cutin "", 255;
+		warp .@mapasPvP$[@menu-1],0,0;
+		announce "O jogador "+strcharinfo(0)+" entrou na Sala PvP "+@menu+" ["+.@mapasPvP$[@menu-1]+"]",bc_all,0x00FF00;
+		end;
+	}
+//	else if(@menu==2){
+//		mes "Selecione a arena GvG:";
+//		for(.@r=0; .@r<getarraysize(.@mapasGvG$); .@r++){
+//		}
+//		.@menuGvG$ += "Cancelar";
+//		if(select(.@menuGvG$)>getarraysize(.@mapasGvG$))close;
+//		warp .@mapasGvG$[@menu-1],0,0;
+//		announce "O jogador "+strcharinfo(0)+" entrou na Sala GvG "+@menu+" ["+.@mapasGvG$[@menu-1]+"]",bc_all,0x00FF00;
+//		end;
+//	}
+	else {
+		next;
+		doevent "da_arena::OnRankPvp";
+	}
+	end;
+	
+	OnInit:
+	hideonnpc "da_arena";
+	while (1) {
+		delwaitingroom;
+		set .@count, getmapusers("arena_4");
+		waitingroom "["+.@count+"] Player no PvP",0;
+		sleep 1000;
+	}
+	end;
+}

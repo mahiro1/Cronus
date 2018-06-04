@@ -1,0 +1,3996 @@
+
+Ponteiro nulo. Data/Hora: 05/02/18 14:18:29 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:52:00 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:52:43 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:54:27 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:20 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:24 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:25 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:28 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:29 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:30 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:35 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:37 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:38 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:39 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:41 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:42 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:43 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:45 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:49 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:51 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:53 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:55:55 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:01 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:03 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:04 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:08 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:12 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:19 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:20 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:21 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:23 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:24 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:25 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 09:56:26 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:00:36 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:00:40 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:00:41 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:00:43 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:00:46 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:00:53 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:21 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:27 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:32 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:36 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:43 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:45 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:46 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:50 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:53 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:03:55 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:04:00 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:04:05 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:04:10 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:06:25 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:05 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:07 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:08 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:11 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:12 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:25 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:27 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:29 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:30 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:31 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:34 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:07:36 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:08:13 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:11:32 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:11:37 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:16:22 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/04/18 10:26:35 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/04/18 11:37:26 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/04/18 13:54:27 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 13:54:34 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 14:28:30 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 14:29:54 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 14:31:13 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:38:22 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:39:14 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:43:43 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:50:01 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:50:48 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:50:49 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:51:42 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:51:42 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 19:58:28 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/04/18 20:04:45 
+Arquivo: unit.c | Linha: 749 | Proc: unit_getdir
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:05:38 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:05:38 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:05:38 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:05:38 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:34 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:37 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:41 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:43 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:44 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:46 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:47 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:07:51 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:08:05 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:09:32 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:09:44 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:18:34 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:18:50 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/05/18 14:19:06 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/05/18 19:57:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/05/18 19:57:38 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/05/18 20:04:15 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/05/18 20:06:18 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/05/18 20:14:40 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/05/18 20:20:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 17:41:45 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 17:56:05 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 17:56:41 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:01:55 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:03:18 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:10:48 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:13:57 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:16:57 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:19:19 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:40:16 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 18:56:05 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:02:37 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:29:05 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:30:56 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:31:57 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:31:58 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:32:15 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:32:16 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:35:37 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/06/18 19:37:20 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 10:34:59 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 10:37:24 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 12:59:23 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 12:59:45 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 13:00:24 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:26:49 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:26:51 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:26:53 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:26:55 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:26:59 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:01 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:03 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:06 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:08 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:10 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:12 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:14 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:27:15 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:29:16 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:34:14 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:41:27 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:44:21 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:44:39 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:45:22 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:45:22 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:45:27 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:45:40 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:47:25 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:47:33 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:47:50 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:49:08 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:53:51 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 16:58:19 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:00:36 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: skill.c | Linha: 15825 | Proc: skill_unitgrouptickset_search
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: unit.c | Linha: 749 | Proc: unit_getdir
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:06 
+Arquivo: skill.c | Linha: 15825 | Proc: skill_unitgrouptickset_search
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:21 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:01:33 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:03:51 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:05:28 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:05:36 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:05:39 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:06:29 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:08:52 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:09:09 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:10:10 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:12:28 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:29:56 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:33:41 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:34:28 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:36:43 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:38:07 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 17:38:58 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:03:09 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:04:30 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:06:38 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:08:04 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:09:27 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:13:54 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:15:17 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:15:42 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:17:04 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:34:57 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:40:30 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:42:18 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:44:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:49:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:49:58 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:51:36 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:52:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:52:32 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:53:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:53:11 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:54:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:57:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 18:59:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:01:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:01:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:04:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:42:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:42:55 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:44:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:44:44 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:45:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:45:31 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:46:28 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:46:33 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:46:39 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:47:48 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:48:04 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:48:17 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:48:52 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:49:01 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:49:07 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:49:09 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:55:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:55:28 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 19:56:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:01:48 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:01:48 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:04:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:04:07 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:04:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:05:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:05:23 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:14:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/07/18 20:23:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 10:53:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 10:56:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 10:56:59 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 10:58:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:02:20 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:04:19 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:07:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:09:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:09:32 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:10:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:12:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:30:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:30:51 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:13 
+Arquivo: skill.c | Linha: 15825 | Proc: skill_unitgrouptickset_search
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:13 
+Arquivo: unit.c | Linha: 749 | Proc: unit_getdir
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:13 
+Arquivo: skill.c | Linha: 15825 | Proc: skill_unitgrouptickset_search
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:19 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:24 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:34 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:39 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:33:46 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:10 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:20 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:25 
+Arquivo: skill.c | Linha: 15825 | Proc: skill_unitgrouptickset_search
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:25 
+Arquivo: skill.c | Linha: 15825 | Proc: skill_unitgrouptickset_search
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:25 
+Arquivo: unit.c | Linha: 749 | Proc: unit_getdir
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:26 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:51 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:34:53 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:17 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:17 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:17 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:19 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:19 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:19 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:19 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:19 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:54 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:54 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:35:54 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:36:55 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:37:22 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:40:54 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 11:42:56 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:00:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:00:22 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:01:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:01:09 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:03:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:03:57 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:07:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:07:54 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:08:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:27:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:40:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:43:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:43:33 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:43:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:44:00 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:44:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:44:55 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:50:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 12:50:24 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:01:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:01:48 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:01:49 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:02:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:05:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:05:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:05:27 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:07:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:07:08 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:07:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:07:34 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:08:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:16:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:18:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:22:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:24:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:44:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:44:44 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:47:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:47:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:58:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 13:58:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:05:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:12:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:13:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:15:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:15:55 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:18:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:19:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:20:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:20:44 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:21:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:27:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:28:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:28:44 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:29:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:29:41 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:30:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:30:33 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:31:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:31:12 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:36:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:39:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 14:39:52 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 15:51:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 15:55:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 15:58:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 16:56:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 16:59:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:07:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:07:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:11:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:11:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:11:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:30:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:30:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:37:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:37:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:37:39 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:39:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:39:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:42:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:42:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:42:06 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:44:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:44:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:44:37 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:48:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:48:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:50:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:50:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:52:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:52:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:52:53 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:55:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 17:55:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:02:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:02:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:02:52 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:08:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:08:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:11:08 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:11:10 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:11:11 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:11:13 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:11:55 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:19:04 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:19:04 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:19:05 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:22:09 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:22:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:22:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:22:40 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:23:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:23:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:24:59 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:25:24 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:30:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:30:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:30:58 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:31:20 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:31:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:31:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:32:00 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:32:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:32:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:33:01 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:34:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:34:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:34:03 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:34:12 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:56:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 18:56:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:02:00 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:06:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:06:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:07:48 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:07:48 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:08:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:08:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:08:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:08:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:08:31 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:32:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:32:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:38:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:38:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:48:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:48:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/08/18 19:48:11 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/08/18 20:01:47 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:13:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:13:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:14:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:14:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:14:45 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:15:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:15:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:15:22 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:16:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:16:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:16:44 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:29:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:29:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:36:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:36:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:36:06 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:48:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:48:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:48:52 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:49:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:49:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:49:18 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:51:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:51:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:51:25 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:52:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:52:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 10:52:19 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:01:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:01:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:01:32 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:03:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:03:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:03:13 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:06:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:06:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:06:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:09:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:09:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:14:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:14:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:14:51 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:18:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:18:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:18:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:19:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:19:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:23:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:23:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:23:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:23:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:23:58 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:28:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:28:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:28:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:28:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:33:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:33:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:44:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:44:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:45:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:45:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:45:14 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:54:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:54:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 11:54:30 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:05:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:05:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:06:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:06:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:06:38 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:08:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:08:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:08:51 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:21:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:21:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:21:27 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:22:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:22:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:23:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:23:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:23:41 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:59:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 13:59:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:00:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:00:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:01:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:01:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:03:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:03:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:03:24 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:04:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:04:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:04:52 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:05:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:05:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:05:36 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:07:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:07:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:09:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:09:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:10:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:10:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:10:04 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:11:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:11:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:11:01 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:16:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:16:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:22:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:22:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:23:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:23:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:23:24 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:24:19 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:24:19 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:24:20 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:26:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:26:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:26:18 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:32:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:32:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 14:32:06 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 16:13:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 16:13:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 16:21:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 16:21:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:00:15 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:00:15 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:02:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:02:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:02:23 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:02:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:02:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:02:45 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:06:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:06:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:06:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:06:26 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:06:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:06:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:06:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:07:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:07:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:07:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:07:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:07:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:07:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 17:07:43 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 18:57:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 18:57:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 18:57:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 18:59:00 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 18:59:13 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:27 
+Arquivo: skill.c | Linha: 15825 | Proc: skill_unitgrouptickset_search
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:27 
+Arquivo: unit.c | Linha: 749 | Proc: unit_getdir
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:35 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:35 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:35 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:35 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:35 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:35 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:35 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/09/18 19:00:42 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:53:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:53:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:53:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:55:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:55:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:55:00 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:55:01 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:56:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:56:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:56:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:56:14 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:57:18 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/09/18 21:57:54 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:01:45 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:01:51 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:05:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:05:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:05:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:05:51 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:06:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:06:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:06:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/09/18 22:06:48 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 10:52:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 10:52:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 10:52:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 13:25:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 13:25:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 13:25:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 13:54:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 13:54:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 13:54:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:03:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:03:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:03:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:03:59 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:06:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:06:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:06:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:06:09 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:19 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:12:40 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:27:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:27:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:27:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:27:14 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:29:20 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:29:20 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:29:20 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:29:21 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:34:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:34:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:34:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:04 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:04 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:04 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:40 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:40:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:41:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:41:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:41:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:41:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:41:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:41:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:46:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:46:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:46:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:48:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:48:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 14:48:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:41:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:41:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:41:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:43:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:43:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:43:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:45:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:45:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:45:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:47:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:47:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:47:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:48:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:48:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:48:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:50:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:50:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:50:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:51:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:51:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:51:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:51:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:51:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:51:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:52:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:52:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:52:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:55:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:55:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:55:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:55:46 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:57:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:57:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:57:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:57:04 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:59:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:59:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:59:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:59:12 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:59:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:59:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 16:59:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:07:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:07:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:07:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:09:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:09:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:09:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:10:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:10:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:10:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:10:35 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:11:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:11:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:11:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:11:29 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:12:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:12:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:12:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:12:23 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:12:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:12:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:12:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:14:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:14:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:14:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:14:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:14:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:14:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:16:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:16:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:16:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:17:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:17:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:17:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:17:39 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:21:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:21:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:21:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:25:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:25:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:25:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:44:17 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:45:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:45:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:45:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:46:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:46:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:46:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:46:08 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:47:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:47:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:47:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:48:00 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:14 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:55:39 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:57:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:57:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:57:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 17:57:31 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:00:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:00:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:00:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:00:58 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:01:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:01:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:01:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:03:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:03:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:03:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:03:12 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:11:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:11:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:11:56 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:11:56 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:14:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:14:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:14:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:14:31 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:22:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:22:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:22:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:22:03 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:22:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:22:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:22:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:25:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:25:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:25:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:37:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:37:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:37:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:38:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:38:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:38:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:38:36 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:46:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:46:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:46:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:46:48 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:47:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:47:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:47:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:47:43 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:48:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:48:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:48:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:48:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:48:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 18:48:17 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:10:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:10:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:10:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:10:12 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:24 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:13:52 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:22:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:22:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:22:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:22:52 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:40:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:40:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:40:53 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:45:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:45:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:45:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:45:25 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:46:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:46:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:46:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:29 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:47:43 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:57:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:57:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 19:57:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:01:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:01:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:01:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:01:35 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:04:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:04:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:04:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:04:17 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:07:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:07:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/10/18 20:07:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:08:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:08:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:08:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:10:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:10:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:10:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:10:59 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:18:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:18:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:18:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:21:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:21:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:21:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:21:24 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:32:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:32:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:32:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:32:04 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:39:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:39:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:39:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:43:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:43:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:43:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:44:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:44:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:44:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:44:11 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:45:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:45:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:45:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 10:45:40 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:20:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:20:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:20:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:22:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:22:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:22:44 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:22:45 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:24:32 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:24:54 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:25:57 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:26:49 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:27:29 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 11:27:35 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 12:51:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 12:51:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 12:51:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:14:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:14:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:14:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:15:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:15:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:15:37 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:18:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:18:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:18:11 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:18:11 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:19:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:19:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:19:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:19:53 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:20:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:20:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:20:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:20:19 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:24:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:24:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:24:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:24:54 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:25:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:25:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:25:06 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:25:07 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:04 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:25 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:27:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:28:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:28:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:28:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:29:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:29:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:29:39 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:29:39 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:33:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:33:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:33:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:33:59 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:35:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:35:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:35:07 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:35:08 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:37:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:37:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:37:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:37:40 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:40:56 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:41:02 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:41:04 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:41:06 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:41:53 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:52:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:52:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:52:10 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:52:11 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:59:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:59:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 13:59:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:01:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:01:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:01:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:01:03 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:07:19 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:07:19 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:07:19 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:07:20 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:07:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:07:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:07:35 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:08:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:08:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:08:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:09:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:09:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:09:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:09:21 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:09:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:09:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:09:59 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:10:00 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:10:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:10:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:10:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:10:25 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:11:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:11:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:11:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:12:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:12:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:12:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:12:10 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:26:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:26:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:26:08 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:27:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:27:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:27:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:27:19 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:27:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:27:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:27:45 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:30:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:30:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:30:32 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:32:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:32:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:32:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:32:59 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:33:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:33:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:33:25 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:35:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:35:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:35:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:37:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:37:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:37:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:37:27 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:38:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:38:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:38:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:38:19 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:02 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:49 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:39:50 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:40:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:40:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:40:12 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:40:12 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:45:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:45:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:45:22 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:45:23 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:45:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:45:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:45:40 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:48:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:48:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:48:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:48:53 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:51:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:51:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:51:47 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:51:48 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:42 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:52:55 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:55:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:55:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 14:55:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:00:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:00:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:00:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:02:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:02:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:02:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:02:04 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:06:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:06:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:06:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:06:29 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:07:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:07:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 15:07:55 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:16:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:16:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:16:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:28:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:28:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:28:31 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:30:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:30:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:30:54 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:31:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:31:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 16:31:33 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:30:38 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:33:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:33:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:33:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:33:53 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:43:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:43:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:43:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:43:06 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:47:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:47:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:47:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 17:47:15 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:05:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:05:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:05:42 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:05:43 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:06:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:06:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:06:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:06:39 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:08:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:08:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:08:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:09:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:09:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:09:34 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:09:35 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:10:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:10:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:10:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:13:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:13:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:13:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:13:30 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:15:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:15:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:15:16 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:15:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:15:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:15:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:16:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:16:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:16:52 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:03 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:19:29 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:26:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:26:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 18:26:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:41:20 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:41:20 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:41:20 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:41:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:41:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:41:58 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:41:59 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:45:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:45:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:45:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:45:39 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:48:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:48:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 19:48:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:07:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:07:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:07:57 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:07:58 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:10:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:10:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:10:23 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:10:24 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:18:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:18:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:18:27 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:28:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:28:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:28:29 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:29:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:29:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 20:29:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 21:17:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 21:17:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/11/18 21:17:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 09:44:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 09:44:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 09:44:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 09:53:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 09:53:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 09:53:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:10:52 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:12:42 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:12:43 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:12:44 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:13:14 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:47:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:47:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:47:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:56:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:56:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 11:56:24 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:02:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:02:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:02:38 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:45:02 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:45:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:45:03 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:58:04 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:58:45 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 12:58:45 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:00:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:00:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:00:05 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:02:02 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:02:25 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:25:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:25:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:25:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:26:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:26:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:26:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:27:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:27:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:27:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:32:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:32:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:32:30 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:37:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:37:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:37:14 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:39:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:39:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:39:13 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:41:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:41:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:41:43 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:41:44 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:42:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:42:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:42:46 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:42:47 
+Arquivo: unit.c | Linha: 181 | Proc: unit_walktoxy_timer
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:01 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:21 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:44:51 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:45:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:45:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:45:36 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:48:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:48:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 13:48:50 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 17:08:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 17:08:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 17:08:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 17:35:02 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 17:41:23 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 17:41:32 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 17:41:38 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:09:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:09:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:09:41 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:11:48 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:11:48 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:11:48 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:15:35 
+Arquivo: unit.c | Linha: 1862 | Proc: unit_attack_timer_sub
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:17:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:17:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:17:09 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:20:11 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:20:11 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:20:11 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:20:11 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:20:11 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/12/18 18:20:11 
+Arquivo: skill.c | Linha: 15863 | Proc: skill_unit_timer_sub_onplace
+
+Ponteiro nulo. Data/Hora: 05/31/18 18:50:26 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/31/18 19:19:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/31/18 19:19:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/31/18 19:19:18 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/31/18 19:22:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/31/18 19:22:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat
+
+Ponteiro nulo. Data/Hora: 05/31/18 19:22:28 
+Arquivo: chat.c | Linha: 410 | Proc: chat_deletenpcchat

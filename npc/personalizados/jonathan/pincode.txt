@@ -1,0 +1,202 @@
+/*
+      ___           ___           ___                         ___           ___     
+     /\  \         /\__\         /\  \         _____         /\__\         /\  \    
+    _\:\  \       /:/ _/_        \:\  \       /::\  \       /:/ _/_        \:\  \   
+   /\ \:\  \     /:/ /\__\        \:\  \     /:/\:\  \     /:/ /\__\        \:\  \  
+  _\:\ \:\  \   /:/ /:/ _/_   _____\:\  \   /:/  \:\__\   /:/ /:/ _/_   _____\:\  \ 
+ /\ \:\ \:\__\ /:/_/:/ /\__\ /::::::::\__\ /:/__/ \:|__| /:/_/:/ /\__\ /::::::::\__\
+ \:\ \:\/:/  / \:\/:/ /:/  / \:\~~\~~\/__/ \:\  \ /:/  / \:\/:/ /:/  / \:\~~\~~\/__/
+  \:\ \::/  /   \::/_/:/  /   \:\  \        \:\  /:/  /   \::/_/:/  /   \:\  \      
+   \:\/:/  /     \:\/:/  /     \:\  \        \:\/:/  /     \:\/:/  /     \:\  \     
+    \::/  /       \::/  /       \:\__\        \::/  /       \::/  /       \:\__\    
+     \/__/         \/__/         \/__/         \/__/         \/__/         \/__/    
+	 
+*/
+// --------------------------------------------------------------------------------------
+// Gerente de PinCodes
+// Autor: Wenden Carvalho
+// Versão 1.0
+// Funções: Gera um código aleatório com números e letras contendo uma determinada quantia de ROPs,
+// qualquer pessoa pode usar o código aqui mesmo nesse npc para receber os ROPs equivalente.
+// --------------------------------------------------------------------------------------
+
+/*
+CREATE TABLE IF NOT EXISTS `pincode` (
+  `quem_adc` varchar(255) NOT NULL,
+  `pin_code` varchar(255) NOT NULL,
+  `qnt_rops` int(11) NOT NULL,
+  `pin_ativo` int(11) NOT NULL,
+  `data_do_adc` varchar(255) NOT NULL,
+  PRIMARY KEY  (`pin_code`)
+) ENGINE=MyISAM;
+*/
+
+prontera,158,172,3	script	Gerente de PinCodes	469,{
+
+set .n$,"[^0000FFGerente de PinCodes^000000]";
+set .gm,99; // Level do GM para Gerar PinCodes.
+set .serv$,"SeuRO"; // Nome do servidor.
+set .site$,"www.seuro.com.br"; // Site do servidor.
+setarray .pinletra$[0],"A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","W","X","Y","Z","@","#"; // Letras e Caracteres que farão parte do PinCode.
+
+	mes .n$;
+	mes "Como posso ajudá-lo?";
+	next;
+	if(getgroupid() >= .gm) set @Admin$,"Gerar PinCode";
+		switch(select("Validar PinCode:Como conseguir um PinCode:No momento nada:"+@Admin$+"")){
+		
+		case 3: close;
+		case 2:
+		mes .n$;
+		mes "Você pode adquirir um PinCode";
+		mes "através de uma doação para o";
+		mes "^FF0000"+.serv$+"^000000, ou recebendo";
+		mes "o código por alguém.";
+		next;
+		mes .n$;
+		mes "Cada PinCode equivale a uma";
+		mes "determinada quantidade de ROPs";
+		mes "após os ROPs serem resgatados,";
+		mes "o PinCode se torna inutilizável.";
+		next;
+		mes .n$;
+		mes "Para mais informações de como";
+		mes "conseguir um PinCode";
+		mes "acesse o site do nosso Servidor:";
+		mes " ";
+		mes "^FF0000"+.site$+"^000000";
+		close;
+		
+		case 1:
+			mes .n$;
+			mes "Por favor, digite o PinCode";
+			mes "abaixo para que eu possa";
+			mes "verificá-lo.";
+			next;
+			input @pin$;
+			callfunc "PinCode",1;
+
+			if(@pin3 >= 1) callsub Erro;
+			if(@pin$ != @pin2$ || @pin$ == "0" || @pin$ == "") callsub Erro;
+			mes .n$;
+			mes "Muito bem, o PinCode inserido";
+			mes "é válido, informe o que deseja";
+			mes "fazer.";
+			next;
+				switch(select("Receber ROPs:Nada")){
+					case 2: close;
+					case 1: 
+					mes .n$;
+					mes "O PinCode: ^FF0000"+@pin$+"^000000";
+					mes "possui o valor de: ^FF0000"+@qrops+"^000000";
+					mes "deseja receber os ROPs agora?";
+					next;
+					switch(select("Sim:Não")){
+						case 2: close;
+						case 1:
+						mes .n$;
+						mes "Transação realizada com sucesso!";
+						close2;
+						set #CASHPOINTS,#CASHPOINTS+@qrops;
+						dispbottom "Seu novo saldo de é "+#CASHPOINTS+" ROPs.";
+						callfunc "PinCode",2;
+						end;
+						}
+					}
+				
+			Erro:
+			mes .n$;
+			mes "O PinCode inserido não é válido,";
+			mes "por favor verifique se inseriu";
+			mes "o código corretamente.";
+			close;
+		
+		case 4:
+		digitarnovopin:
+		mes .n$;
+		mes "Escolha uma opção para continuar.";
+		next;
+			switch(select("Gerar PinCode Aleatório:Cancelar")){
+			
+			case 2: close;
+			case 1:
+			pinrandom:
+			mes .n$;
+			set @pinrandom,rand(1,999);
+			set @pinrandom2,rand(1,999);
+			set @pinrandom3,rand(1,999);
+			set @prd,rand(getarraysize(.pinletra$));
+			set @prd2,rand(getarraysize(.pinletra$));
+			set @prd3,rand(getarraysize(.pinletra$));
+			set @pinrandom2$,.pinletra$[@prd]+@pinrandom+"-"+.pinletra$[@prd2]+@pinrandom2+"-"+.pinletra$[@prd3]+@pinrandom3;
+			mes "Foi gerado o PinCode:";
+			mes "^FF0000"+@pinrandom2$+"^000000.";
+			mes "Deseja utilizar esse PinCode?";
+			next;
+				switch(select("Sim:Não")){
+				
+					case 2: close;
+					case 1:
+					callfunc "PinCode",4;
+					if(@pinrandom2$ ==  @pinc2$){
+					mes .n$;
+					mes "Já existe um PinCode registrado";
+					mes "com esse número, vou gerar um";
+					mes "novo PinCode.";
+					next;
+					callsub pinrandom;
+					end; 
+					}
+					
+					mes .n$;
+					mes "Agora informe quantos ROPs";
+					mes "deseja atribuir ao PinCode:";
+					mes "^FF0000"+@pinrandom2$+"^000000.";
+					next;
+						input @pinrandom2;
+						
+						mes .n$;
+						mes "Você digitou ^FF0000"+@pinrandom2+"^000000";
+						mes "está correto?";
+						next;
+							switch(select("Sim:Não")){
+							
+							case 2: close;
+							case 1:
+							mes .n$;
+							mes "Muito bem, foi gerado o PinCode:";
+							mes "^FF0000"+@pinrandom2$+"^000000";
+							mes "de valor: ^FF0000"+@pinrandom2+"^000000 ROPs.";
+							close2;
+							callfunc "PinCode",3;
+							dispbottom "Você gerou um PinCode de número: "+@pinrandom2$+" de valor: "+@pinrandom2+" ROPs, ele ficará ativo até ser utilizado.";
+							end;
+								
+								
+						}
+					}
+				}
+			}
+		}
+
+function	script	PinCode	{
+
+if(getarg(0) == 1){
+query_sql "SELECT `pin_code`,`pin_ativo`,`qnt_rops` FROM `pincode` WHERE `pin_code`='"+@pin$+"'",@pin2$,@pin3,@qrops;
+return;
+}
+if(getarg(0) == 2){
+query_sql "UPDATE `pincode` SET `pin_ativo` = '1' WHERE `pin_code` = '"+@pin$+"'";
+return;
+}
+if(getarg(0) == 3){
+query_sql "INSERT INTO `pincode` (`quem_adc`,`pin_code`,`qnt_rops`,`pin_ativo`,`data_do_adc`) VALUES ('"+strcharinfo(0)+"','"+@pinrandom2$+"','"+@pinrandom2+"','0','"+gettimestr("%d-%m-%Y %H:%M:%S",21)+"')";
+return;	
+}
+if(getarg(0) == 4){
+set @pinc2$,0;
+query_sql "SELECT `pin_code` FROM `pincode` WHERE `pin_code`='"+@pinrandom2$+"'",@pinc2$;
+return;
+}
+
+}

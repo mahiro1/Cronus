@@ -1,0 +1,259 @@
+//===========================================================//
+//=     ___  ___          __   __  __                         %
+//=    |   \/   | ___ __ |  |_|  |(__) __ __  ____            %
+//=    |  |\/|  |/ __`  ||   _   ||  ||  '__// __ \           %
+//=    |__|  |__|\___,__||__| |__||__||__|   \____/           %
+//===========================================================//
+// BANQUEIRO COM CARDS.				 						  %
+//===== Por: ================================================//
+//= [ADM] Mahiro = NÃO RETIRE OS CRÉDITOS.                    %
+//===========================================================//
+//===========================================================//
+prontera,159,177,5	script	Banqueiro	833,{				 //
+															 //
+set .@npc$,"[ ^008000Banqueiro^000000 ]";					 //
+															 //
+//===========================================================//	
+set $ids,607;		// CARD 1								 //
+set $idp,607;		// CARD 2								 //
+set $idg,607;		// CARD 3								 //
+//===========================================================//
+	
+	mes .@npc$;
+	if (isday()== 1){mes "BOM DIA!"; mes "Em que tipo de TRANSAÇÃO posso ajuda-ló ^8B4513"+strcharinfo(0)+"^000000?"; next; goto L_Bank;}else{mes "BOA NOITE!"; mes "Em que tipo de TRANSAÇÃO posso ajuda-ló ^8B4513"+strcharinfo(0)+"^000000?"; next; goto L_Bank;}
+	
+	L_Bank:
+	switch(select("Vender Cartões.:Comprar Cartões.:Trocar Cartões.:^FF0000*REGRAS TRANSAÇÔES!!!*^000000:Nenhuma, Obrigado.")){
+		case 1:
+		mes .@npc$;
+		mes "";
+		next;
+		switch(select("^0000FF"+getitemname($ids)+"^000000:^696969"+getitemname($idp)+"^000000:^FFD700"+getitemname($idg)+"^000000")){
+			case 1:
+		mes .@npc$;
+		mes "";
+		next;
+		input .@qnt;
+		if(.@qnt >= 1 && .@qnt <= 10){
+		if(countitem($ids) < .@qnt*1){mes .@npc$; mes "Você não "+.@qnt+" de ^0000FF"+getitemname($ids)+"^000000"; close;}
+		if(Zeny+100000000*.@qnt > 1500000000){close2; message strcharinfo(0),"Você não tem espaço para mais Zeny!"; end;}
+		mes .@npc$; mes "Transação feita com SUCESSO!";
+		delitem $ids,.@qnt; set Zeny, Zeny + 100000000*.@qnt; set $ntran, $ntran+.@qnt; close;
+		} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+		
+			case 2:	
+		mes .@npc$;
+		mes "";
+		next;
+		input .@qnt;
+		if(.@qnt >= 1 && .@qnt <= 2){
+		if(countitem($idp) < .@qnt*1){mes .@npc$; mes "Você não "+.@qnt+" de ^696969"+getitemname($idp)+"^000000"; close;}
+		if(Zeny+500000000*.@qnt > 1500000000){close2; message strcharinfo(0),"Você não tem espaço para mais Zeny!"; end;}
+		mes .@npc$; mes "Transação feita com SUCESSO!";
+		delitem $idp,.@qnt; set Zeny, Zeny + 500000000*.@qnt; set $ntran, $ntran+.@qnt; close;
+		} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+		
+			case 3:	
+		mes .@npc$;
+		mes "";
+		next;
+		input .@qnt;
+		if(.@qnt >= 1 && .@qnt <= 1){
+		if(countitem($idg) < .@qnt*1){mes .@npc$; mes "Você não "+.@qnt+" de ^FFD700"+getitemname($idg)+"^000000"; close;}
+		if(Zeny+1000000000*.@qnt > 1500000000){close2; message strcharinfo(0),"Você não tem espaço para mais Zeny!"; end;}
+		mes .@npc$; mes "Transação feita com SUCESSO!";
+		delitem $idg,.@qnt; set Zeny, Zeny + 1000000000*.@qnt; set $ntran, $ntran+.@qnt; close;
+		} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+		}
+		case 2:
+		mes .@npc$;
+		mes "qual?";
+		next;
+		switch(select("^0000FF"+getitemname($ids)+"^000000:^696969"+getitemname($idp)+"^000000:^FFD700"+getitemname($idg)+"^000000")){
+			case 1:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^0000FF"+getitemname($ids)+"^000000 você deseja "+strcharinfo(0)+"?";
+			next;
+			input .@qnt;
+			if(.@qnt >= 1 && .@qnt <= 15){
+			if(Zeny < .@qnt*100000000){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			set Zeny, Zeny - 100000000*.@qnt; getitem $ids,.@qnt; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+			
+			case 2:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^696969"+getitemname($idp)+"^000000 você deseja "+strcharinfo(0)+"?";
+			next;
+			input .@qnt;
+			if(.@qnt >= 1 && .@qnt <= 3){
+			if(Zeny < .@qnt*500000000){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			set Zeny, Zeny - 500000000*.@qnt; getitem $idp,.@qnt; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+			
+			case 3:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^FFD700"+getitemname($idg)+"^000000 você deseja "+strcharinfo(0)+"?";
+			next;
+			input .@qnt;
+			if(.@qnt >= 1 && .@qnt <= 1){
+			if(Zeny < .@qnt*1000000000){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			set Zeny, Zeny - 1000000000*.@qnt; getitem $idg,.@qnt; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+				
+			
+		}
+		case 3:
+		mes .@npc$;
+		mes "";
+		switch(select("^0000FF"+getitemname($ids)+"^000000:^696969"+getitemname($idp)+"^000000:^FFD700"+getitemname($idg)+"^000000")){
+			case 1:
+			mes "";
+			next;
+		switch(select("^696969"+getitemname($idp)+"^000000:^FFD700"+getitemname($idg)+"^000000")){
+			case 1:
+			goto L_PlatS;
+			case 2:
+			goto L_GoldS;
+		}
+			case 2:	
+			mes "";
+			next;
+		switch(select("^0000FF"+getitemname($ids)+"^000000:^FFD700"+getitemname($idg)+"^000000")){
+			case 1:
+			goto L_SimpP;
+			case 2:
+			goto L_GoldP;}
+			
+			case 3:
+			mes "";
+			next;
+		switch(select("^0000FF"+getitemname($ids)+"^000000:^696969"+getitemname($idp)+"^000000")){
+			case 1:
+			goto L_SimpG;
+			case 2:
+			goto L_PlatG;}
+		}
+// CARD SIMPLES		
+		L_PlatS:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^0000FF"+getitemname($ids)+"^000000 você deseja trocar por ^696969"+getitemname($idp)+"^000000 "+strcharinfo(0)+"?";
+			next;
+			do {input .@qnt;}while(.@qnt%5);
+			if(.@qnt >= 5 && .@qnt <= 100){
+			if(countitem($ids) < .@qnt){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			delitem $ids,.@qnt; getitem $idp,.@qnt/5; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+			
+		
+		L_GoldS:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^0000FF"+getitemname($ids)+"^000000 você deseja trocar por ^FFD700"+getitemname($idg)+"^000000 "+strcharinfo(0)+"?";
+			next;
+			do {input .@qnt;}while(.@qnt%10);
+			if(.@qnt >= 10 && .@qnt <= 100){
+			if(countitem($ids) < .@qnt){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			delitem $ids,.@qnt; getitem $idg,.@qnt/10; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+		
+// CARD PLATINA		
+		L_SimpP:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^696969"+getitemname($idp)+"^000000 você deseja trocar por ^0000FF"+getitemname($ids)+"^000000 "+strcharinfo(0)+"?";
+			next;
+			input .@qnt;
+			if(.@qnt >= 1 && .@qnt <= 100){
+			if(countitem($idp) < .@qnt){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			delitem $idp,.@qnt; getitem $ids,.@qnt*5; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+		
+		L_GoldP:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^696969"+getitemname($idp)+"^000000 você deseja trocar por ^FFD700"+getitemname($idg)+"^000000 "+strcharinfo(0)+"?";
+			next;
+			do {input .@qnt;}while(.@qnt%2);
+			if(.@qnt >= 2 && .@qnt <= 100){
+			if(countitem($idp) < .@qnt){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			delitem $idp,.@qnt; getitem $idg,.@qnt/2; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+			
+// CARD GOLD			
+		L_SimpG:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^FFD700"+getitemname($idg)+"^000000 você deseja trocar por ^0000FF"+getitemname($ids)+"^000000 "+strcharinfo(0)+"?";
+			next;
+			input .@qnt;
+			if(.@qnt >= 1 && .@qnt <= 100){
+			if(countitem($idg) < .@qnt){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			delitem $idg,.@qnt; getitem $ids,.@qnt*10; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+		
+		L_PlatG:
+			mes .@npc$;
+			mes "";
+			mes "Quantos ^FFD700"+getitemname($idg)+"^000000 você deseja trocar por ^696969"+getitemname($idp)+"^000000 "+strcharinfo(0)+"?";
+			next;
+			input .@qnt;
+			if(.@qnt >= 1 && .@qnt <= 100){
+			if(countitem($idg) < .@qnt){mes .@npc$; mes "Está tentando me enganar? ou realmente não sabe ás operações?"; close;}
+			mes .@npc$; mes "Transação feita com SUCESSO!";
+			delitem $idg,.@qnt; getitem $idp,.@qnt*2; set $ntran, $ntran+.@qnt; close;
+			} mes .@npc$;mes "Acredito que não entendeu!"; mes "Revise a Matemática básica, deve ajudar."; close;
+			
+		end;
+		
+		case 4:
+		mes .@npc$;
+		mes "LEIA COM ATENÇÃO!!!";
+		next;
+		mes .@npc$;
+		mes "A STAFF NÃO SE RESPONSABILIZA POR QUALQUER PERDA DE CARTÕES ZENY!";
+		next;
+		mes .@npc$;
+		mes "ESTEJA CIENTE QUE AO VENDER UM CARTÃO ZENY(VALOR X), VOCÊ PRECISA TER ESPAÇO PARA ELE;";
+		next;
+		mes .@npc$;
+		mes "EX: VOCÊ VENDE UM CARD DE 100KK, MAS NÃO TEM ESPAÇO ENTRE SEUS ZENY PARA 100KK.";
+		next;
+		mes .@npc$;
+		mes "PODE ACONTECER DO CARTÃO SER RETIRADO DE VOCÊ E O VALOR NÃO SER CRÉDITADO POR FALTA DE ESPAÇO.";
+		next;
+		mes .@npc$;
+		mes "SE LEU ATÉ AQUI, OU NÃO, ESTEJA CIENTE!!!";
+		next;
+		mes .@npc$;
+		mes "A STAFF NÃO SE RESPONSABILIZA POR ERROS SEUS. BOM JOGO!";
+		close;
+		end;
+		
+		
+		case 5:
+		mes.@npc$;
+		mes "Volte sempre que precisar.";
+		close;
+		end;
+	}
+	
+	OnInit:
+	while (1) {
+		delwaitingroom;
+		waitingroom "Transações ["+$ntran+"]",0;
+		sleep 1000;
+	}
+	end;
+}

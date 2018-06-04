@@ -1,0 +1,125 @@
+/*    ________________________________________________________
+	/                                                        \
+	|      | |__  _ __ / \ | |_| |__   ___ _ __   __ _       |
+	|      | '_ \| '__/ _ \| __| '_ \ / _ \ '_ \ / _` |      |
+	|      | |_) | | / ___ \ |_| | | |  __/ | | | (_| |      |
+	|      |_.__/|_|/_/   \_\__|_| |_|\___|_| |_|\__,_|      |
+	|                                                        |
+	|--------------------------------------------------------|
+	| Nome do Script: Pack Guild Master                      |
+	|--------------------------------------------------------|
+	| Criado por: Sephir4                                    |
+	| Atualização/Revisão: Orce                              |
+	|--------------------------------------------------------|
+	| Versão 2.0											 |
+	|--------------------------------------------------------|
+	| Funcionalidades:                                       |
+	| - Adiciona o Pack Guild diretamente no inventario dos  |
+	| membros do clã Online.                                 |
+	| - Remove os itens do PackGuild caso o jogador saia do  |
+	| clã ou tente negociar o item.                          |
+	|                                                        |
+	| OBS: O script foi desenvolvido no emulador brAthena    |
+	| não garanto a funcionalidade em outros emuladores.     |
+	|--------------------------------------------------------|
+	\________________________________________________________/
+*/
+	 
+function	script	nmes	{
+	next;
+	mes getarg(0);
+	return;
+}
+
+prontera,153,181,5	script	Pack Guild Master	1_M_KNIGHTMASTER,{
+	mes .n$;
+	mes "Olá, "+strcharinfo(0)+" bem vind"+(Sex?"o":"a")+" ao "+.rag_name$+", todas as guild's do "+.rag_name$+" tem direito a um serviço gratuito de ajuda para novas guild's.";
+	nmes(.n$);
+	if(getguildmaster(getcharid(2)) == strcharinfo(0))
+	{
+		mes (Sex?"O":"A")+" senhor"+(Sex?"":"a")+" gostaria de obter informações sobre meus serviços ?";
+		switch(select("Receber meu Pack:Informações sobre o Pack Guild:Lista de premios:Voltarei depois"))
+		{
+		nmes(.n$);
+		case 1:
+			query_sql "SELECT `guild_id` FROM `pack_guild` WHERE `guild_id` = "+getcharid(2),@id_guild;
+			if(@id_guild != getcharid(2))
+			{
+				query_sql "SELECT `account_id` FROM `char` WHERE `online` = 1 AND `guild_id` = "+getcharid(2), .@guild_membros;
+				if(getarraysize(.@guild_membros) >= .min_membros){
+					mes "Apenas os \"membros\" que estiverem online neste momento receberão o Pack. Se existe algum membro online que não esteja aparecendo na contagem, encerre a conversa, peça para ele relogar e fale comigo novamente.";
+					nmes(.n$);
+					mes "Deseja receber o Pack Guild agora ?";
+					mes "^0000FFMembros online: ^000000"+getarraysize(.@guild_membros);
+					if(select("Sim desejo receber:Irei aguardar")==1)
+					{
+						nmes(.n$);
+						mes "Os itens serão entregue a cada membro da guild online nessse momento.";
+						close2;
+						for(set .@c, 0; .@c < getarraysize(.@guild_membros);set .@c,.@c+1)
+						{
+							if(attachrid(.@guild_membros[.@c]))
+							{
+								query_sql "SELECT `account_id`, `guild_name` FROM `pack_list` WHERE `account_id` = '"+.@guild_membros[.@c]+"'",@pack_acc, @pack_gn$;
+								switch(@pack_acc != .@guild_membros[.@c]? "1":"2")
+								{
+									case 1:
+											for(set .@i, 0; .@i < getarraysize(.id_pg); set .@i, .@i+2)
+											{
+												getitembound .id_pg[.@i],.id_pg[.@i+1],2;
+											}
+											query_sql "INSERT INTO `pack_list` (`account_id`, `guild_id`, `guild_name`) VALUES ( '"+.@guild_membros[.@c]+"', '"+getcharid(2)+"', '"+getguildname(getcharid(2))+"' )";
+											query_sql "INSERT INTO `pack_guild` (`guild_id`, `membros`) VALUES ('"+getcharid(2)+"', '"+getarraysize(.@guild_membros)+"')";
+											
+											dispbottom "[AVISO] Sua guild acaba de receber o Pack Guild, seus itens se encontram no seu iventário.";
+											break;
+									case 2:
+											dispbottom "[AVISO] Você ja recebeu o Pack Guild quando estava na Guild \""+@pack_gn$+"\".";
+											break;
+								}
+							}
+						}
+						end;
+					}
+					nmes(.n$);
+					mes "Tudo bem, assim que tiver tudo pronto me procure.";
+					close;
+				}
+				mes "Sua guild não tem membros online suficiente para receber o Pack Guild.";
+				close;
+			}
+			mes "Sua guild ja recebeu o Pack Guild, o pack guild é entregue apenas uma vez por guild.";
+			close;
+		case 2:
+			mes "Após a criação da sua guild os processos para receber o Pack Guild é simples, em sua Guild devem haver "+.min_membros+" membros online.";
+			nmes(.n$);
+			mes "Todos os premios ganhos pelo Pack Guild são vinculados a Guild, o item sera deletado caso algum jogador que nao seja da guild o equipe.";
+			nmes(.n$);
+			mes "O Pack Guild é uma forma de ajudar as Guild's a se tornarem estaveis no "+.rag_name$+" e ajudar seus membros.";
+			nmes(.n$);
+			mes "Qual quer guild pode receber o Pack Guild e não ha restrições de level, é realmente uma forma de ajudar novas guild's no "+.rag_name$;
+			close;
+		case 3:
+			for(set @i,0; @i < getarraysize(.id_pg); set @i,@i+2) mes .id_pg[@i+1]+"x [^1f920b"+getitemname(.id_pg[@i])+"^000000]";
+			close;
+		case 4:
+			mes "Tudo bem, estarei aguardando seu retorno, bom  jogo.";
+			close;
+		default:break;
+		}
+	}
+	mes "Tenha em mente que meus serviços são validos apenas para lideres de Guild's, até que você se torne \"UM\" e/ou o lider da sua guild venha ate mim você deve esperar.";
+	close;
+
+OnInit:
+	set .n$, "[^F50049Pack Guild Master^000000]";
+	set .rag_name$, "SeuServidor";
+	set .min_membros, 1;			/* Quantidade minima de membros da guild online para receber o Pack Guild.*/
+	setarray .id_pg[0], 2199,1,1599,1,607,20;	/* ID,Quantidade dos itens dados no Pack Guild.*/
+
+	// --- Não mexa ---
+	// = Cria as tabelas se não existir.
+	query_sql ("CREATE TABLE IF NOT EXISTS `pack_guild` (`id` int(10) unsigned NOT NULL auto_increment, `guild_id` int(10) NOT NULL, `membros` int(10) NOT NULL, PRIMARY KEY (`ID`)) ENGINE=MyISAM;");
+	query_sql ("CREATE TABLE IF NOT EXISTS `pack_list` (`id` int(10) unsigned NOT NULL auto_increment, `account_id` int(10) NOT NULL, `guild_id` int(10) NOT NULL, `guild_name` varchar(50) NOT NULL DEFAULT '', PRIMARY KEY (`ID`)) ENGINE=MyISAM;");
+	end;
+}

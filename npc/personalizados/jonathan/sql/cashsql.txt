@@ -1,0 +1,1 @@
+ALTER TABLE `login` ADD (`cash` int(11) NOT NULL DEFAULT '0');

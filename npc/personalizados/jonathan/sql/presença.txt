@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS `hourly_points` (
+`account_hourly` int( 11 ) unsigned NOT NULL auto_increment,
+`online` tinyint(2) NOT NULL default '0',
+`points` int(11) unsigned NOT NULL default '0',	
+`minute` int(11) NOT NULL DEFAULT '0' , 			     
+PRIMARY KEY ( `account_hourly` )
+) ENGINE=MyISAM AUTO_INCREMENT=1;

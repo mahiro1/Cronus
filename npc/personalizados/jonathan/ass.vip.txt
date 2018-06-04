@@ -1,0 +1,283 @@
+//===========================================================//
+//=     ___  ___          __   __  __                         %
+//=    |   \/   | ___ __ |  |_|  |(__) __ __  ____            %
+//=    |  |\/|  |/ __`  ||   _   ||  ||  '__// __ \           %
+//=    |__|  |__|\___,__||__| |__||__||__|   \____/           %
+//===========================================================//
+// ASSISTENTE PARA JOGADORES 'GROUPID = 1 ou 0'.			  %
+//===== Por: ================================================//
+//= [ADM] Mahiro = NÃO RETIRE OS CRÉDITOS.                    %
+//===========================================================//
+// ASSISTENTE CONTÉM ALGUMAS FUNÇÕES PARA OS JOGADORES. 	  %
+//=== SQL: ==================================================//
+//= ALTER TABLE `login` ADD (`dt_vip` DATE);				  %
+//===========================================================//
+// ATUALIZAÇÃO VIP.
+-	script	GerenciadorVip	-1,{
+	
+OnPCLoginEvent:
+
+query_sql "UPDATE `login` SET `group_id`= 0 WHERE `group_id` = "+$nivelVip+" AND (`dt_vip` IS NULL OR `dt_vip` < CURDATE())";
+end;
+}
+// FUNÇÃO VIP, 15 DIAS.
+function	script	vip15	{
+
+set $nivelVip, 1;
+set $diasVip, 15;
+set $verificaVip, 1;
+
+query_sql "UPDATE `login` SET `group_id` = "+$nivelVip+", `dt_vip` = DATE_ADD(CURDATE(),INTERVAL "+$diasVip+" DAY) WHERE `group_id` = 0 AND `account_id` = "+getcharid(3);
+end;
+}
+// FUNÇÃO VIP, 30 DIAS.
+function	script	vip30	{
+
+set $nivelVip, 1;
+set $diasVip, 30;
+set $verificaVip, 1;
+
+query_sql "UPDATE `login` SET `group_id` = "+$nivelVip+", `dt_vip` = DATE_ADD(CURDATE(),INTERVAL "+$diasVip+" DAY) WHERE `group_id` = 0 AND `account_id` = "+getcharid(3);
+end;
+}
+// FUNÇÃO VIP, 7 DIAS.
+function	script	vip7	{
+
+set $nivelVip, 1;
+set $diasVip, 7;
+set $verificaVip, 1;
+
+query_sql "UPDATE `login` SET `group_id` = "+$nivelVip+", `dt_vip` = DATE_ADD(CURDATE(),INTERVAL "+$diasVip+" DAY) WHERE `group_id` = 0 AND `account_id` = "+getcharid(3);
+end;
+}
+
+//==========================================================================================================================
+//			    Função que controla a data de término da conta vip e anúncios ao logar
+//==========================================================================================================================
+
+-	script	GerenciadorVip1	-1,{
+
+		OnPCLoginEvent:	
+
+set @site$, "www.SeuRO.com.br";
+
+		query_sql "UPDATE `login` SET `group_id`= 0 WHERE `group_id` = "+$nivelVip+" AND (`dt_vip` IS NULL OR `dt_vip` < CURDATE())";
+		query_sql "SELECT (`dt_vip` IS NULL OR `dt_vip` < CURDATE()) FROM `login` WHERE `account_id` = "+getcharid(3), @verificaVip;
+
+		if (@verificaVip) {
+
+		dispbottom "Torne-se um(a) jogador(a) Vip e tenha benefícios exclusivos!";
+		dispbottom "Acesse "+@site$+" e saiba mais!";
+		end;
+
+}
+
+	query_sql "SELECT DATE_FORMAT(`dt_vip`, '%d/%m/%Y') FROM `login` WHERE `account_id` = "+getcharid(3), @dataVencimento$;
+
+	dispbottom "Sua conta Vip é válida até o dia "+@dataVencimento$+"";
+	end;
+
+}
+// *APENAS ALTERE ACIMA SE SOUBER O QUE ESTÁ FAZENDO.* //
+// *ASSSISTENTE VIP ABAIXO.* //
+// ASSISTENTE VIP ABAIXO. //
+// FAÇA BOM USO. //
+prontera,164,209,-5	script	Assistente VIP	4_M_ROTERT,{
+	
+	set .@b$,"[^00aaffAssistente VIP^000000]";		// Altere o nome do NPC aqui.
+	set @site$,"^0000FFwww.SeuRO.com.br^000000"; // Altere o nome do WebSite do 'SEURO' aqui.
+	set @cashname$,"^00aaffC^000000Cash"; // Nome do Cash do Servidor.
+		
+		assistente:
+		cutin "rote02",2;
+		mes .@b$;
+		mes "Olá ^ff0000"+strcharinfo(0)+"^000000 o que deseja?";
+		mes "^FF0000*******************************^000000";
+		mes "Visite:";
+		mes ""+@site$+"";
+		mes "^FF0000*******************************^000000";
+		next;
+		switch(select("^ff0000Promoções^000000.:Verificar Tempo ^00aa7fVIP^000000.:Verificar quantidade de "+@cashname$+".:Ativar ^00aa7fVIP^000000 por ^00aaffF^000000Cash.:Área ^00aa7fVIP^000000.:Nada.")) {
+		case 1:
+		cutin "rote04",2;
+		mes .@b$;
+		mes "^FF0000*******************************^000000";
+		mes ""+@cashname$+" com ^0000ff+50%^000000 do Valor Doado:";
+		mes "^FF0000*******************************^000000";
+		mes "Visite:";
+		mes ""+@site$+"";
+		mes "^FF0000*******************************^000000";
+		close2;
+		cutin "rote04",255;
+		goto assistente;
+		end;
+		case 2:
+		if(getgroupid()<1) {
+		cutin "rote03",2;
+		mes .@b$;
+		mes	"Desculpe, mas você não possui ^00aa7fVIP^000000.";
+		mes "Visite "+@site$+"";
+		mes "e saiba como ser ^00aa7fVIP^000000.";
+		close2;
+		cutin "rote03",255;
+		end;
+		}
+		if(getgroupid()>=1) {
+		query_sql "SELECT DATE_FORMAT(`dt_vip`, '%d/%m/%Y') FROM `login` WHERE `account_id` = "+getcharid(3), @dataVencimento$;
+		cutin "rote04",2;
+		mes .@b$;
+		mes "Seu ^00aa7fVIP^000000 está valido até ^ff0000"+@dataVencimento$+"^000000.";
+		mes "Mantenha seu ^00aa7fVIP^000000 atualizado e fique a par das novidades, e exclusividades ^00aa7fVIP^000000.";
+		close2;
+		cutin "rote04",255;
+		goto assistente;
+		end;
+		}
+		close;
+		end;
+		case 3:
+		cutin "rote04",2;
+		mes .@b$;
+		mes "Você Possui ^ff0000"+#CASHPOINTS+"^000000 ^00aaffF^000000Cash.";
+		mes ""+@cashname$+" pode ser usado na Compra de Itens Especiais, ou na Compra de ^00aa7fVIP^000000, que lhe permite pequenos beneficios,";
+		mes "sendo um deles a nossa Sala ^00aa7fVIP^000000.";
+		close2;
+		cutin "rote04",255;
+		goto assistente;
+		end;
+		case 4:
+		mes .@b$;
+		mes "Selecione a Quantidade de dias ^00aa7fVIP^000000 que deseja.";
+		mes "Dependendo dos Dias irá existir variações na quantidade de ^00aaffF^000000Cash.";
+		mes "Selecione um dos valores abaixo;";
+		next;
+		switch(select("Ativar ^00aa7fVIP^000000, 30 Dias.:Ativar ^00aa7fVIP^000000, 15 Dias.")) {
+		case 1:
+		cutin "rote04",2;
+		mes .@b$;
+		mes "^00aa7fVIP^000000 por 30 Dias = 10,000 ^00aaffFCash^000000";
+		mes "Comando: ^00aaff@vip^000000";
+		mes "Deseja ativar?";
+		next;
+		switch(select("Sim.:Não, Obrigado.")) {
+		case 1:
+		if(getgroupid()>=1) { cutin "rote03",2; mes .@b$; mes "Desculpe mas você já é ^00aa7fVIP^000000."; mes "Após ^FF0000"+@dataVencimento$+"^000000 pode reativa-ló."; close2; cutin "rote03",255; end; }
+		if(#CASHPOINTS<=9999) {
+		cutin "rote03",2;
+		mes .@b$;
+		mes "Desculpe mas você não possui "+@cashname$+".";
+		close2;
+		cutin "rote03",255;
+		end;
+		}
+		if(#CASHPOINTS>=10000) {
+		mes .@b$;
+		mes "^00aa7fVIP^000000 Inserido com Sucesso !";
+		mes "^FF00005,000^000000 "+@cashname$+" Retirado !";
+		mes "^FF0000*^000000^0000FFNecessário relogar^000000.^FF0000*^000000";
+		set #CASHPOINTS,#CASHPOINTS-10000;
+		close2;
+		cutin "rote04",255;
+		callfunc "vip30";
+		end;
+		}
+		case 2:
+		mes .@b$;
+		mes "Volte sempre.";
+		mes "Bom Jogo.";
+		close2;
+		cutin "rote04",255;
+		end;
+		}
+		case 2:
+		cutin "rote04",2;
+		mes .@b$;
+		mes "^00aa7fVIP^000000 por 15 Dias = 5,000 "+@cashname$+"";
+		mes "Comando: ^00aaff@vip^000000";
+		mes "Deseja ativar?";
+		next;
+		switch(select("Sim.:Não, Obrigado.")) {
+		case 1:
+		if(getgroupid()>=1) { cutin "rote03",2; mes .@b$; mes "Desculpe mas você já é ^00aa7fVIP^000000."; mes "Após ^FF0000"+@dataVencimento$+"^000000 pode reativa-ló."; close2; cutin "rote03",255; end; }
+		if(#CASHPOINTS>=5000) {
+		mes .@b$;
+		mes "^00aa7fVIP^000000 Inserido com Sucesso !";
+		mes "^FF00005,000^000000 "+@cashname$+" Retirado !";
+		mes "^FF0000*^000000^0000FFNecessário relogar^000000.^FF0000*^000000";
+		set #CASHPOINTS,#CASHPOINTS-5000;
+		close2;
+		cutin "rote04",255;
+		callfunc "vip15";
+		end;
+		}
+		if(#CASHPOINTS<=4999) {
+		cutin "rote03",2;
+		mes .@b$;
+		mes "Desculpe mas você não possui "+@cashname$+".";
+		close2;
+		cutin "rote03",255;
+		end;
+		}
+		case 2:
+		mes .@b$;
+		mes "Volte sempre.";
+		mes "Bom Jogo.";
+		close2;
+		cutin "rote04",255;
+		end;
+		}
+		}
+		close;
+		end;
+		case 5:
+		if(getgroupid()<1) {
+		cutin "rote03",2;
+		mes .@b$;
+		mes "Desculpe, mas não pode entrar na Área de Jogadores ^00aa7fVIP^000000's !";
+		close2;
+		cutin "rote03",255;
+		end;
+		}
+		if(getgroupid()>=1) {
+		cutin "rote04",2;
+		mes .@b$;
+		mes "Selecione uma da Exclusividades VIP's.";
+		next;
+		switch(select("Lançamentos !:Upar ^ff0000Guild/Clã^000000.")) {
+		case 1:
+		mes .@b$;
+		mes "Itens que serão Lançados em breve.";
+		mes "^FF0000*******************************^000000";
+		mes "^0000FFSem Data Prévia^000000: 00/00/0000.";
+		mes "^FF0000*******************************^000000";
+		mes "^FF0000*******************************^000000";
+		close2;
+		cutin "rote04",255;
+		goto assistente;
+		end;
+		case 2:
+		mes .@b$;
+		mes "Feito !";
+		close2;
+		atcommand "@glvl 50";
+		cutin "rote04",255;
+		end;
+		}
+		}
+		case 6:
+	    mes .@b$;
+	    mes "Até Mais !";
+	    mes "Bom Jogo.";
+	    close2;
+		cutin "rote02",255;
+		end;
+}
+		OnMinute47:
+		announce "[Assistente VIP]: Adicione VIP e tenha acesso a nossa sala VIP(@vip).",bc_blue;
+		end;
+		OnInit:
+		waitingroom "Promoções Cash rolando.", 0;
+		end;
+}
+// DUPLICAÇÕES. // SE DUPLICA-LÓ O MESMO ACONTECE COM O ANÚCIO CONTIDO. //
+//ra_temsky,47,136,6	duplicate(Assistente VIP)	Assistente VIP#ra	4_M_ROTERT

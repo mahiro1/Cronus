@@ -1,0 +1,10 @@
+prontera,163,194,4	script	Funcionária Kafra	4_F_KAFRA5,{
+	cutin "kafra_05",2;
+	callfunc "F_KafSet";
+	mes "[Kafra Recepcionista]";
+	mes "Bem-vind"+(Sex?"o":"a")+" à Corporação Kafra, nós sempre estamos ao seu lado.";
+	mes "Em que posso ajudá-l"+(Sex?"o":"a")+"?";
+	callfunc "F_Kafra",5,0,0,40,800;
+	savepoint "prontera",156,197;
+	callfunc "F_KafEnd",0,1,"na cidade de Prontera";
+}

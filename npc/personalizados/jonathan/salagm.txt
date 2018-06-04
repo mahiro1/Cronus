@@ -1,0 +1,10 @@
+-	script	atcmd_gm	-1,{
+	
+	OnInit:
+	bindatcmd "gm",strnpcinfo(3)+"::OnAtCommand",4,99;
+	end;
+	
+	OnAtCommand:
+	warp "sec_in01",168,159;
+	end;
+}

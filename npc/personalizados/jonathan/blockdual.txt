@@ -1,0 +1,143 @@
+//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+//%%           _____    _____   _____   _____   _____    _   _____   _   _            %%
+//%%          |  _  \  /  _  \ |  _  \ | ____| |  _  \  | | /  ___| | | / /           %%
+//%%          | |_| |  | | | | | | | | | |__   | |_| |  | | | |     | |/ /            %%
+//%%          |  _  /  | | | | | | | | |  __|  |  _  /  | | | |     | |\ \            %%
+//%%          | | \ \  | |_| | | |_| | | |___  | | \ \  | | | |___  | | \ \           %%
+//%%          |_|  \_\ \_____/ |_____/ |_____| |_|  \_\ |_| \_____| |_|  \_\          %%
+//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+//%%==================================================================================%%
+//%% | Desenvolvido Por [ADM] Roderick | Cronus | Por Favor, Não Retire Os Créditos | %%
+//%%==================================================================================%%
+-	script	blockdual	-1,{						    							//%%
+//%%==================================================================================%%
+OnInit:										   									 	//%%
+bindatcmd "blockdual",strnpcinfo(3)+"::OnAtCommand",99,99;							//%%
+//%%----------------------------------------------------------------------------------%%
+//%% 			CONFIGURAÇÕES GERAIS:					      						  %%
+//%%----------------------------------------------------------------------------------%%
+//%%  Coloque aqui todos os mapas em que deseja que seja bloqueado o uso de dual-acc  %%
+setarray .dualmapas$[0],"arena_4","1@ddd";//%%
+//%%----------------------------------------------------------------------------------%%
+//%%  Coloque aqui o nome do Admin que irá aparecer nas mensagens!!		      		  %%
+set .adm$,"[ADM] Mahiro";							    							//%%
+//%%----------------------------------------------------------------------------------%%
+//%% Coloque 1 caso queira ignorar a regra para Administradores						  %%
+set .ignoreForADM,1;																//%%
+//%%----------------------------------------------------------------------------------%%
+//%% Coloque abaixo o level de Admin que será ignorado (só funciona se a opcao acima  %%
+//%%																 estiver como 1)  %%
+set .admLevel,4;																	//%%
+//%%----------------------------------------------------------------------------------%%
+//%%		OS MAPAS TAMBÉM PODE SER CONFIGURADOS PELO COMANDO @blockdual     		  %%
+//%% Ex: @blockdual prontera   //Assim prontera será adicionado ou retirada da lista  %%
+//%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+for(set .@r,0; .@r<getarraysize(.dualmapas$); .@r++){
+	setmapflag .dualmapas$[.@r], mf_loadevent;
+}
+end;
+
+OnPCLoadMapEvent:
+if(.ignoreForADM==1 && getgroupid()>=.admLevel)end;
+query_sql "SELECT `account_id` from `login`where `last_ip`='"+getcharip()+"'",.@accid;
+
+for(set .@r,0; .@r<getarraysize(.@accid); .@r++){
+	query_sql "SELECT `online` from `char` where `online`='1' and `account_id`='"+.@accid[.@r]+"'",getd(".@online"+.@r);
+	if(getd(".@online"+.@r) ==1 && .@accid[.@r]!=getcharid(3)) goto Negado;
+}
+end;
+
+Negado:
+set .@back,getcharid(3);
+for(set .@c,0; .@c<getarraysize(.dualmapas$); .@c++){
+	if(strcharinfo(3)==.dualmapas$[.@c]){
+		attachrid(.@accid[.@r]);
+		if(strcharinfo(3)!=.dualmapas$[.@c]) end;
+		else attachrid(.@back);
+			if(getsavepoint(0)==strcharinfo(3)){
+				mes "Amig"+(Sex?"o":"a")+" temos um probleminha, seu ponto de retorno está como ^0000FF"+strcharinfo(3)+"^000000...";
+				mes "Mas a Staff bloqueou o uso de duas contas simultâneas neste mapa, aconselhamos que você salve seu ponto de retorno em outro mapa, ou então tenha paciência até que esse mapa seja liberado novamente!";
+				next;
+				mes "Agora digite o número da cidade que deseja ser teletransportado, como se fosse no @go";
+				mes "Lembrando que as cidades disponivéis são de 0 - 6 .";
+				input .@city;
+				while(.@city <0 || .@city>6){			
+					next;
+					mes "Você digitou uma número inválido.";
+					mes "Digite uma cidade de 0 - 6";
+					input .@city;
+				}
+				close2;
+				atcommand "@go "+.@city;
+				end;
+			}
+			warp getsavepoint(0),getsavepoint(1),getsavepoint(2);
+			sleep2 2500;
+			if(#usoudual>0 && #usoudual<2)goto segunda;
+			else if(#usoudual>=2)goto preso;
+			mes "Espertinho pare de tentar usar ^FF0000Dual-acc em mapas proibidos!!^000000";
+			mes "Este mapa não está permitido o uso de duas contas simultâneas. Qualquer dúvida entre em contato com a Staff!";
+			mes "Att. ^0000CD"+.adm$+"^000000";
+			set #usoudual,1;
+			close;
+	}
+}
+end;
+
+segunda:
+mes "Você continua tentando burlar o sistema né?!";
+mes "^FF0000A próxima vez^000000 que tentar isso você ^FF0000vai ser preso!!^000000";
+mes "Att. ^0000CD"+.adm$+"^000000";
+#usoudual++;
+close;
+
+preso:
+atcommand "@jailfor 1d "+strcharinfo(0);
+sleep2 2000;
+mes "Parabéns por querer testar o sistema, ^FF0000agora está preso!!^000000";
+mes "Ficará preso por 1 dia!! Pode consultar o tempo restante usando ^FF0000@jailtime^000000";
+mes "Att. ^0000CD"+.adm$+"^000000";
+set #usoudual,0;
+close;
+end;
+
+OnAtCommand:
+	if(!.@atcmd_numparameters){
+		dispbottom "Digite o mapa em que você quer bloquear/liberar o uso de Dual-Account.";
+		dispbottom "Ex: @blockdual prontera";		
+	}
+	else if(!callfunc("mapexists",.@atcmd_parameters$[0])){
+		dispbottom "Mapa inválido, digite o comando e o nome de um mapa válido.";
+		dispbottom "Ex: @blockdual xmas_dun02";
+	}
+	else {
+		for(.@r=0; .@r<getarraysize(.dualmapas$); .@r++){
+			if(.@atcmd_parameters$[0]==.dualmapas$[.@r]){
+				.@nalista=1;
+				break;
+			}
+		}
+		if(!.@nalista){
+			setarray .dualmapas$[getarraysize(.dualmapas$)],.@atcmd_parameters$[0];
+			setmapflag .@atcmd_parameters$[0], mf_loadevent;
+			mapwarp .@atcmd_parameters$[0],.@atcmd_parameters$[0],0,0;
+			.@atcmd_parameters$[0]=setchar(.@atcmd_parameters$[0],strtoupper(charat(.@atcmd_parameters$[0],0)),0);
+			dispbottom .@atcmd_parameters$[0]+" está agora bloqueada para o uso de Dual-Account";
+		}
+		else {
+			deletearray .dualmapas$[.@r],1;
+			removemapflag .@atcmd_parameters$[0], mf_loadevent;
+			.@atcmd_parameters$[0]=setchar(.@atcmd_parameters$[0],strtoupper(charat(.@atcmd_parameters$[0],0)),0);
+			dispbottom .@atcmd_parameters$[0]+" está LIBERADA para o uso de Dual-Account";
+		}
+	}
+	end;
+}
+function	script	mapexists	{
+
+	if(getmapusers(getarg(0))!=0 && getmapusers(getarg(0))<1){
+		return 0;
+	}
+	else return 1;
+}	

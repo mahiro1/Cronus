@@ -1,0 +1,16 @@
+-	script	anunwoe	-1,{
+
+
+OnPCKillEvent:
+set .@castles$, strcharinfo(3);
+set @GID,getcharid(2);
+if(strcharinfo(3) == "prtg_cas01" || strcharinfo(3) == "prtg_cas02" || strcharinfo(3) == "prtg_cas03" || strcharinfo(3) == "prtg_cas04" || strcharinfo(3) == "prtg_cas05") {
+mapannounce .@castles$,"O jogador [ "+strcharinfo(0)+" ] da Guild [ "+getguildname(@GID)+" ] derrotou: [ "+rid2name(killedrid)+" ].",8;
+end;
+}
+OnPCDieEvent:
+if(strcharinfo(3) == "prtg_cas01" || strcharinfo(3) == "prtg_cas02" || strcharinfo(3) == "prtg_cas03" || strcharinfo(3) == "prtg_cas04" || strcharinfo(3) == "prtg_cas05") {
+dispbottom "Você foi derrotado por: [ "+rid2name(killerrid)+" ].";
+end;
+}
+}

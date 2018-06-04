@@ -1,0 +1,72 @@
+-	script	atcmd_mvpc	-1,{
+	
+	OnInit:
+	bindatcmd "mvpc",strnpcinfo(3)+"::OnAtCommand",1,99;
+	end;
+	
+	OnAtCommand:
+	set @npc$,"[^00bfff Invocador ^000000]";
+	setarray .@mvplist[0],1708,1583,1312,1511,1719,1086,1418,1150,1289,1059,1159,1190,1087,1039,1272,1492,1046,1038,1389,1252,1115,1630,1623,1112,1685,1157,1251,1785;
+	set .@custo,20000000; //-- Caso queira deixar grátis, altere o valor para "0" (Zero).
+
+	mes @npc$;
+	mes "Olá ^ff0000"+strcharinfo(0)+"^000000.";
+	mes "Você se acha forte o suficiente para matar um MVP?";
+	if(select("Claro, agora mesmo.:Não, ainda não.") == 2) close;
+	next;
+	mes @npc$;
+	mes "Muito bem, escolha o MVP.";
+	for(set @i, 0; @i < getarraysize(.@mvplist); set @i, @i + 1)
+		set .@menu$,.@menu$+strmobinfo(1,.@mvplist[@i])+":";
+	set .@menu$,.@menu$+"^ff0000Cancelar^000000";
+	set $@out, select (.@menu$)-1;
+	if(($@out+1) > @i) { mes "Volte quando quiser."; close; }
+	next;
+	mes @npc$;
+	mes "Você escolheu: ^ff0000"+strmobinfo(1,.@mvplist[$@out])+"^000000";
+	if(.@custo > 0) { mes "Para invocar esse MVP será preciso ^ff0000"+.@custo+"z^000000"; }
+	if(select("Invocar!:Cancelar.") == 2) { close; }
+	if(Zeny < .@custo) {next; mes @npc$; mes "Os custos são mais altos do que o Zeny que você tem a oferecer."; close; }
+	set Zeny,Zeny - .@custo;
+	close2;
+	message strcharinfo(0), "Aguarde 5 segundos!";
+	sleep2 5000;
+	atcommand "@Monster "+.@mvplist[$@out];
+	end;
+}
+-	script	atcmd_mvpa	-1,{
+	
+	OnInit:
+	bindatcmd "mvpa",strnpcinfo(3)+"::OnAtCommand",1,99;
+	end;
+	
+	OnAtCommand:
+	set @npc$,"[^00bfff Invocador ^000000]";
+	setarray .@mvplist[0],1708,1583,1312,1511,1719,1086,1418,1150,1289,1059,1159,1190,1087,1039,1272,1492,1046,1038,1389,1252,1115,1630,1623,1112,1685,1157,1251,1785;
+	set .@custo,50000000; //-- Caso queira deixar grátis, altere o valor para "0" (Zero).
+
+	mes @npc$;
+	mes "Olá ^ff0000"+strcharinfo(0)+"^000000.";
+	mes "Você se acha forte o suficiente para matar um MVP?";
+	if(select("Claro, agora mesmo.:Não, ainda não.") == 2) close;
+	next;
+	mes @npc$;
+	mes "Muito bem, escolha o MVP.";
+	for(set @i, 0; @i < getarraysize(.@mvplist); set @i, @i + 1)
+		set .@menu$,.@menu$+strmobinfo(1,.@mvplist[@i])+":";
+	set .@menu$,.@menu$+"^ff0000Cancelar^000000";
+	set $@out, select (.@menu$)-1;
+	if(($@out+1) > @i) { mes "Volte quando quiser."; close; }
+	next;
+	mes @npc$;
+	mes "Você escolheu: ^ff0000"+strmobinfo(1,.@mvplist[$@out])+"^000000";
+	if(.@custo > 0) { mes "Para invocar esse MVP será preciso ^ff0000"+.@custo+"z^000000"; }
+	if(select("Invocar!:Cancelar.") == 2) { close; }
+	if(Zeny < .@custo) {next; mes @npc$; mes "Os custos são mais altos do que o Zeny que você tem a oferecer."; close; }
+	set Zeny,Zeny - .@custo;
+	close2;
+	message strcharinfo(0), "Aguarde 5 segundos!";
+	sleep2 5000;
+	atcommand "@Monster "+.@mvplist[$@out];
+	end;
+}

@@ -1,0 +1,42 @@
+//============================================================
+//=    ___  ___          __   __  __                         %
+//=   |   \/   | ___ __ |  |_|  |(__) __ __  ____            %
+//=   |  |\/|  |/ __`  ||   _   ||  ||  '__// __ \           %
+//=   |__|  |__|\___,__||__| |__||__||__|   \____/           %
+//============================================================
+// COMANDO QUE TELEPORTA PARA SALA VIP. APENAS JOGADORES VIP %
+//===== Por: =================================================
+//= [ADM] Mahiro                                             %
+//============================================================
+-	script	atcmd_vip	-1,{
+	
+OnInit:
+bindatcmd "vip",strnpcinfo(3)+"::OnAtcommandvip";
+end;
+	
+OnAtcommandvip:
+if (getgroupid()<2){  //Level VIP
+dispbottom "^FF0000Comando Exclusivo para Jogadores VIP's^000000";
+end;
+}
+// Aqui a warp, ou comando que deverá ativar ao usar @govip
+warp "que_job01",67,92;
+end;
+}
+//============================================================
+-	script	SegurançaVIP	-1,{
+	
+OnPCLoadMapEvent:
+if (strcharinfo(3)=="vip"){
+if (getgroupid()<1){  //Level VIP
+warp "prontera",156,191;
+end;
+}
+}
+end;
+}
+//=================//
+//====mapflag======//
+//=================//
+
+que_temsky	mapflag	loadevent

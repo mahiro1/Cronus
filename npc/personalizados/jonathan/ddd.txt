@@ -1,0 +1,242 @@
+//===========================================================//
+//=     ___  ___          __   __  __                         %
+//=    |   \/   | ___ __ |  |_|  |(__) __ __  ____            %
+//=    |  |\/|  |/ __`  ||   _   ||  ||  '__// __ \           %
+//=    |__|  |__|\___,__||__| |__||__||__|   \____/           %
+//===========================================================//
+// COMPLEMENTO DO DADO DA DESTRUIÇÃO.						  %
+//===== Por: ================================================//
+//= [ADM] Mahiro = NÃO RETIRE OS CRÉDITOS.                    %
+//===========================================================//
+//	@dado = Anucia a Abertura do Evento.					  %
+//	@dice = Gira o DADO de eliminação das Casas.			  %
+//	@abrir = libera a troca de Casas.						  %
+//	@fechar = Bloqueia a troca de Casas.					  %
+//	@win = Anuncia o nome do Ganhador.						  %
+//===========================================================//
+//===================== MAPFLAG =============================//
+//===========================================================//
+1@ddd	mapflag	nowarpto									  %
+1@ddd	mapflag	noteleport									  %
+1@ddd	mapflag	nowarp										  %
+1@ddd	mapflag	noreturn									  %
+1@ddd	mapflag	nobranch									  %
+1@ddd	mapflag	nosave										  %
+1@ddd	mapflag	nomemo										  %
+1@ddd	mapflag	noskill										  %
+//=============================================================
+// Comando para Girar o Dado.
+-	script	atcmd_dice	-1,{
+	
+OnInit:
+	setarray .emotion[1],58,59,60,61,62,63;
+	bindatcmd "dice",strnpcinfo(3)+"::OnAtCommand",4,99;
+	disablenpc "diearea#1";
+	disablenpc "diearea#2";
+	disablenpc "diearea#3";
+	disablenpc "diearea#4";
+	disablenpc "diearea#5";
+	disablenpc "diearea#6";
+	end;
+
+OnAtCommand:
+	sleep2 100;
+	announce "3...",bc_yellow;
+	sleep2 1000;
+	announce "2...",bc_yellow;
+	sleep2 1000;
+	announce "1...",bc_yellow;
+	sleep2 700;
+	set .@dice,rand(1,6);
+	emotion .emotion[.@dice],1;
+	sleep2 1000;
+	enablenpc "diearea#"+.@dice;
+	announce "[Dado da Destruição]: Casa "+ .@dice +" Eliminada !",bc_yellow;
+	sleep2 3000;
+	disablenpc "diearea#"+.@dice;
+	useatcmd "@abrir";
+	end;	
+}
+// Dado.
+-	script	atcmd_dado	-1,{
+	
+	OnInit:
+bindatcmd "dado",strnpcinfo(3)+"::OnAtCommand",4,99;
+disablenpc "portaldice";
+end;
+
+OnAtCommand:
+mes "[^00bfffDado da Destruição^000000]";
+mes "Daqui  quanto tempo o evento iniciará??";
+mes "(^FF0000digite em minutos^000000)";
+input $falta;
+if(select("Evento:Retornar ao Tempo")==2)goto OnAtCommand;
+close2;
+warp "1@ddd",50,43;
+enablenpc "portaldice";
+announce "Portal para [Dado da Destruição] aberto em @warp louyang 218 146, será fechado em "+ $falta +" minutos.",bc_yellow;
+set $falta,$falta*60 + gettimetick(1);
+while (gettimetick(1)<$falta){
+	sleep 59999;
+	set $tempo,$falta-gettimetick(1);
+	set $tempo2,$tempo / 60;
+		if($tempo>0 && $tempo<=60){
+				announce "Portal para [Dado da Destruição] vai fechar em 1 minuto, portal localizado em @warp louyang 218 146.",bc_yellow;
+				sleep 59999;
+				}
+	else{
+	announce "Portal para [Dado da Destruição] aberto em @warp louyang 218 146, será fechado em "+$tempo2+" minutos.",bc_yellow;
+}}
+sleep 2000;
+announce "Portal para o Evento Dado da Destruição fechado !!",bc_yellow;
+disablenpc "portaldice";
+sleep 3500;
+mapannounce "1@ddd","[Dado da Destruição]: BOA SORTE.",8;
+end;
+
+}
+louyang,217,159,0	script	portaldice	45,2,2,{
+
+OnTouch:
+	warp "1@ddd",50,33;
+end;
+}
+// Abrir Pontes.
+-	script	atcmd_abrir	-1,{
+	
+	OnInit:
+bindatcmd "abrir",strnpcinfo(3)+"::OnAtCommand",4,99;
+end;
+
+OnAtCommand:
+mapannounce "1@ddd","[Dado da Destruição]: Troca de Casas Liberada. Pontes Abertas !",8;
+setcell	"1@ddd",44,50,44,50,cell_wallkable,1;
+setcell	"1@ddd",44,49,44,49,cell_wallkable,1;
+setcell	"1@ddd",45,50,45,50,cell_wallkable,1;
+setcell	"1@ddd",45,49,45,49,cell_wallkable,1;
+//
+setcell	"1@ddd",54,50,54,50,cell_wallkable,1;
+setcell	"1@ddd",54,49,54,49,cell_wallkable,1;
+setcell	"1@ddd",55,50,55,50,cell_wallkable,1;
+setcell	"1@ddd",55,49,55,49,cell_wallkable,1;
+//
+setcell	"1@ddd",57,45,57,45,cell_wallkable,1;
+setcell	"1@ddd",58,45,58,45,cell_wallkable,1;
+setcell	"1@ddd",58,44,58,44,cell_wallkable,1;
+setcell	"1@ddd",57,44,57,44,cell_wallkable,1;
+setcell	"1@ddd",57,43,57,43,cell_wallkable,1;
+setcell "1@ddd",58,43,58,43,cell_wallkable,1;
+setcell	"1@ddd",58,42,58,42,cell_wallkable,1;
+setcell	"1@ddd",57,42,57,42,cell_wallkable,1;
+//
+setcell	"1@ddd",55,36,55,36,cell_wallkable,1;
+setcell	"1@ddd",55,35,55,35,cell_wallkable,1;
+setcell	"1@ddd",54,35,54,35,cell_wallkable,1;
+setcell	"1@ddd",54,36,54,36,cell_wallkable,1;
+//
+setcell	"1@ddd",45,35,45,35,cell_wallkable,1;
+setcell	"1@ddd",45,36,45,36,cell_wallkable,1;
+setcell	"1@ddd",44,36,44,36,cell_wallkable,1;
+setcell	"1@ddd",44,35,44,35,cell_wallkable,1;
+//
+setcell	"1@ddd",41,42,41,42,cell_wallkable,1;
+setcell	"1@ddd",42,42,42,42,cell_wallkable,1;
+setcell	"1@ddd",42,43,42,43,cell_wallkable,1;
+setcell	"1@ddd",41,43,41,43,cell_wallkable,1;
+setcell	"1@ddd",41,44,41,44,cell_wallkable,1;
+setcell	"1@ddd",42,44,42,44,cell_wallkable,1;
+setcell	"1@ddd",42,45,42,45,cell_wallkable,1;
+setcell	"1@ddd",41,45,41,45,cell_wallkable,1;
+end;
+end;
+}
+// Fechar Pontes.
+-	script	atcmd_fechar	-1,{
+	
+	OnInit:
+bindatcmd "fechar",strnpcinfo(3)+"::OnAtCommand",4,99;
+end;
+
+OnAtCommand:
+mapannounce "1@ddd","[Dado da Destruição]: Troca de Casas Bloqueada. Pontes fechadas !",8;
+setcell	"1@ddd",44,50,44,50,cell_wallkable,0;
+setcell	"1@ddd",44,49,44,49,cell_wallkable,0;
+setcell	"1@ddd",45,50,45,50,cell_wallkable,0;
+setcell	"1@ddd",45,49,45,49,cell_wallkable,0;
+//
+setcell	"1@ddd",54,50,54,50,cell_wallkable,0;
+setcell	"1@ddd",54,49,54,49,cell_wallkable,0;
+setcell	"1@ddd",55,50,55,50,cell_wallkable,0;
+setcell	"1@ddd",55,49,55,49,cell_wallkable,0;
+//
+setcell	"1@ddd",57,45,57,45,cell_wallkable,0;
+setcell	"1@ddd",58,45,58,45,cell_wallkable,0;
+setcell	"1@ddd",58,44,58,44,cell_wallkable,0;
+setcell	"1@ddd",57,44,57,44,cell_wallkable,0;
+setcell	"1@ddd",57,43,57,43,cell_wallkable,0;
+setcell "1@ddd",58,43,58,43,cell_wallkable,0;
+setcell	"1@ddd",58,42,58,42,cell_wallkable,0;
+setcell	"1@ddd",57,42,57,42,cell_wallkable,0;
+//
+setcell	"1@ddd",55,36,55,36,cell_wallkable,0;
+setcell	"1@ddd",55,35,55,35,cell_wallkable,0;
+setcell	"1@ddd",54,35,54,35,cell_wallkable,0;
+setcell	"1@ddd",54,36,54,36,cell_wallkable,0;
+//
+setcell	"1@ddd",45,35,45,35,cell_wallkable,0;
+setcell	"1@ddd",45,36,45,36,cell_wallkable,0;
+setcell	"1@ddd",44,36,44,36,cell_wallkable,0;
+setcell	"1@ddd",44,35,44,35,cell_wallkable,0;
+//
+setcell	"1@ddd",41,42,41,42,cell_wallkable,0;
+setcell	"1@ddd",42,42,42,42,cell_wallkable,0;
+setcell	"1@ddd",42,43,42,43,cell_wallkable,0;
+setcell	"1@ddd",41,43,41,43,cell_wallkable,0;
+setcell	"1@ddd",41,44,41,44,cell_wallkable,0;
+setcell	"1@ddd",42,44,42,44,cell_wallkable,0;
+setcell	"1@ddd",42,45,42,45,cell_wallkable,0;
+setcell	"1@ddd",41,45,41,45,cell_wallkable,0;
+end;
+}
+// Anúncio do Vencedor.
+-	script	atcmd_win	-1,{
+	
+	OnInit:
+bindatcmd "win",strnpcinfo(3)+"::OnAtCommand",4,99;
+end;
+
+OnAtCommand:
+OnNova:
+mes "[^00bfffDado da Destruição^000000]";
+getusersname;
+next;
+mes "[^00bfffDado da Destruição^000000]";
+mes "Digite o ID da conta do Vencedor.";
+mes "*CLIQUE COM DIREITO DO MOUSE ME CIMA DELE PARA VER!*";
+input .@accid;
+next;
+mes "[^00bfffDado da Destruição^000000]";
+mes "Digite a Rodada do evento.";
+input @rodada$;
+next;
+mes "[^00bfffDado da Destruição^000000]";
+mes "Está tudo correto?";
+if(select("Sim.:Retornar ao vencedor.")==2)goto OnAtCommand;
+announce strcharinfo(0)+": O Player ( "+ rid2name(.@accid) +" ) venceu a "+@rodada$+"° rodada do Dado da Destruição.",bc_yellow;
+atcommand "@recall "+ rid2name(.@accid) +"";
+close2;
+end;
+}
+// Complemento para evasão do mapa, DADO.
+-	script	diearea	-1,{
+	
+	OnTouch:
+	warp "louyang",218,146;
+	end;
+}
+1@ddd,40,51,0	duplicate(diearea)	diearea#1	-1,5,5
+1@ddd,49,51,0	duplicate(diearea)	diearea#2	-1,4,4
+1@ddd,59,49,0	duplicate(diearea)	diearea#3	-1,5,5
+1@ddd,59,37,0	duplicate(diearea)	diearea#4	-1,5,5
+1@ddd,49,35,0	duplicate(diearea)	diearea#5	-1,4,4
+1@ddd,39,37,0	duplicate(diearea)	diearea#6	-1,5,5

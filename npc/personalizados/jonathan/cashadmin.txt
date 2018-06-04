@@ -1,0 +1,11 @@
+-	script	cashadmin	-1,{
+	
+	OnPCLoginEvent:
+	query_sql "SELECT `cash` FROM `login` WHERE `account_id` = "+getcharid(3), #CASHPOINTS;
+	end;
+	
+	OnPCLogoutEvent:
+	query_sql "UPDATE `login` SET `cash`= "+#CASHPOINTS+" WHERE `account_id` = "+getcharid(3);
+	end;
+
+}

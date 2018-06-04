@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `pincode` (
+  `quem_adc` varchar(255) NOT NULL,
+  `pin_code` varchar(255) NOT NULL,
+  `qnt_rops` int(11) NOT NULL,
+  `pin_ativo` int(11) NOT NULL,
+  `data_do_adc` varchar(255) NOT NULL,
+  PRIMARY KEY  (`pin_code`)
+) ENGINE=MyISAM;

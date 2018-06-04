@@ -1,0 +1,211 @@
+ordeal_2-2.gat	mapflag	nomemo
+ordeal_2-2.gat	mapflag	nobranch
+ordeal_2-2.gat	mapflag	noexp
+ordeal_2-2.gat	mapflag	nodrop
+ordeal_2-2.gat	mapflag	nochat
+ordeal_2-2.gat	mapflag	novending
+ordeal_2-2.gat	mapflag	nowarpto
+ordeal_2-2.gat	mapflag	noreturn
+ordeal_2-2.gat	mapflag	nosave
+//==================================================
+//Optional
+//==================================================
+ordeal_2-2.gat	mapflag	noloot 
+//disable so that after logging in your still in the Gold Room..
+//ordeal_2-2.gat	mapflag	nosave	SavePoint
+
+ordeal_2-2,0,0,0	script	Gold Room	-1,{
+
+OnPCDieEvent: 
+
+if (getmapxy(@mapname$,@mapx,@mapy,0) == -1) goto L_Finish;
+if (@mapname$ == "ordeal_2-2"){
+		dispbottom "Puta merda você morreu!";
+		dispbottom "Todo o seu ouro vai embora!";
+		set alive, 0;
+		set paid, 0;
+		set @gold,0;
+		end;
+}
+
+L_Finish:
+close;
+
+OnNPCKillEvent:
+if (getmapxy(@mapname$,@mapx,@mapy,0) == -1) goto L_Finish;
+if (@mapname$ == "ordeal_2-2"){
+	
+	set @gold,@gold+1;
+		
+	dispbottom "-|Você tem: 1 gold| - |Total: " +@gold+ " gold|-";
+	getitem 969,1;
+	
+	if(countitem(969) >= 115 && countitem(969) <= 149){
+		 sc_start	33,240000,10;
+	}else if (countitem(969) >= 150 && countitem(969) <= 199){
+		 sc_start	5,240000,10;
+	}else if(countitem(969) >= 200){
+		 percentheal -10,0;
+		 heal -40,0;
+	}
+	if(paid == 0){
+		mapannounce "ordeal_2-2",""+strcharinfo(0)+" é um trapaceiro!",bc_map;
+		dispbottom "Saia seu bastardo!";
+		warp "prontera", 156, 206;
+	}
+		end;
+L_HolyShit:
+		dispbottom "Atenção! você pode morrer se você exceder.";
+		misceffect 368;
+		end;
+
+	end;
+}
+
+}
+
+//===============================================
+//warper
+//===============================================
+ordeal_2-2,154,156,5	script	Garimpeiro	813,{
+	cutin "fey_fun",2;
+	mes "[Garimpeiro]";
+	mes "Quer ir agora?";
+	mes "Seu ouro é apenas "+@gold+" você ainda pode conseguir mais.";
+	next;
+	goto wa;
+	close2;
+	cutin "",255;
+	end;
+wa:
+	mes "Quer ir agora?";
+	 if(select("Yes", "No") == 1) {
+		set alive,1;
+		set @gold,0;
+        		warp "prontera",156,206;
+    	}
+	close;
+}
+
+ prontera,177,203,-5	script	Sala do Ouro Warp#pront	813,{
+	set @name$,"prontera";
+	callfunc "goldmain";
+	end;
+}
+
+aldebaran,133,116,4	script	Gold Room Warperer#alde	813,{
+	set @name$,"aldebaran";
+	callfunc "goldmain";
+	end;
+}
+
+alberta,23,247,4	script	Gold Room Warperer#alb	813,{
+	set @name$,"alberta";
+	callfunc "goldmain";
+	end;
+}
+payon,151,182,4	script	Gold Room Warperer#pay	813,{
+	set @name$,"payon";
+	callfunc "goldmain";
+	end;
+}
+
+geffen,115,74,4	script	Gold Room Warperer#gef	813,{
+	set @name$,"geffen";
+	callfunc "goldmain";
+	end;
+}
+
+
+function	script	goldmain	{
+	if ( alive == 0){
+		set @gold,0;
+	}
+	cutin "fey_fun",2;
+	mes "[Sala do Ouro Warp]";
+	mes "O que você quer?";
+	next;
+	menu "Para a sala de ouro("+getmapusers("ordeal_2-2")+")",-,"Nada",C_s;
+	mes "[Sala do Ouro Warp]";
+	mes "Hmm..";
+    	mes "Você gostaria de ir agora para a sala do ouro?";
+    	if(select("Sim", "Não") == 1) {
+		if(@name$ == "prontera") savepoint "prontera",160,180;
+		if(@name$ == "aldebaran") savepoint "aldebaran",166, 163;
+		if(@name$ == "alberta") savepoint "alberta",16, 246;
+		if(@name$ == "payon") savepoint "payon",160, 179;
+		if(@name$ == "geffen") savepoint "geffen",124, 85;
+		set alive, 1;
+		set paid, 1;
+		set @gold,0;
+        		warp "ordeal_2-2", 156, 155;
+		
+    	}
+    	close;
+nomoney:
+	mes "[Sala do Ouro Warp]";
+	mes "Desculpe saldo insuficiente";
+	close;
+exchange:
+	mes "[Gold Room Warperer]";
+	mes "Hmm...deixe-me ver";
+	mes "Você tem " +@gold+ ".";
+	if (Gold == 0) goto nogold; 
+	mes "Ok, pegue isso.";
+	next;
+        if(checkweight(969,Gold) == 0) goto L_OverWeight;
+	getitem 969, Gold;
+	set Gold, 0;
+	emotion e_gg;
+	close;
+L_OverWeight:
+	mes "[Sala do Ouro Warp]";
+	mes "Desculpe seu excesso de peso";
+	close;
+nogold:
+	close;
+C_s:
+	close2;
+	cutin "",255;
+	end;
+}
+
+
+
+
+//========================================
+//warps you may edit this one for your convenience
+//========================================
+ordeal_2-2,73,265,0	warp	ord500	1,1,prontera,156,206
+ordeal_2-2,129,194,0	warp	ord501	1,1,prontera,156,206
+ordeal_2-2,130,194,0	warp	ord502	1,1,prontera,156,206
+ordeal_2-2,178,193,0	warp	ord503	1,1,prontera,156,206
+ordeal_2-2,290,130,0	warp	ord504	1,1,prontera,156,206
+ordeal_2-2,241,281,0	warp	ord505	1,1,prontera,156,206
+ordeal_2-2,66,25,0 	warp	ord506	1,1,prontera,156,206
+ordeal_2-2,290,229,0	warp	ord507	1,1,prontera,156,206
+ordeal_2-2,179,94,0	warp	ord5s08	1,1,prontera,156,206
+//======================================
+//mobs you may edit this as you want but don't change the mobs
+//=====================================
+
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	1110,800,40000,20000,0
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	1369,100,40000,20000,0
+
+/*
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	2074,20,40000,20000,0
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	2074,10,40000,20000,0
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	2074,20,40000,20000,0
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	2074,20,40000,20000,0
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	2074,10,40000,20000,0
+ordeal_2-2,0,0,0,0	monster	Hunt For GOld	2074,20,40000,20000,0
+*/
+//======================================
+
+//ordeal_2-2	mapflag	noskill
+ordeal_2-2	mapflag	noteleport
+ordeal_2-2	mapflag	novending
+ordeal_2-2	mapflag	noicewall
+ordeal_2-2	mapflag	nopenalty
+ordeal_2-2	mapflag	nobranch
+ordeal_2-2	mapflag	noexp

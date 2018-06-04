@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS `devilsquare` (
+  `id_usuario` int(11) NOT NULL,
+  `nome` varchar(255) NOT NULL,
+  `id_acc` int(11) NOT NULL,
+  `pontos` int(11) NOT NULL,
+  PRIMARY KEY  (`id_usuario`)
+) ENGINE=MyISAM;
